@@ -4,12 +4,13 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Hi my name is Joe.  I'm a software developer.  I love learning, writing software, and meditation.
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
+# Learning
+Someone once told me that the desire to learn will take you very far in the field of development.  I didn't understand at the time, but after many years I can say that this statement is probably one of the most valuable things I have ever known.  Learning is what allows me to consistently grow past the person I am today and become more of the person I want to be.
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+# Code
+As a developer most of my experience is writing web applications.  Web development is really where my passion lies because there is always the opportunity to learn new tools and tricks.  I've been getting really into ES6 JavaScript recently and trying to expand my horizons in the JavaScript world.
+
+# Meditation
+Training one's mind is as important as training one's physical body.  Meditation is a hoby of mine that I use to keep myself level when working through difficult problems in life and in development.
