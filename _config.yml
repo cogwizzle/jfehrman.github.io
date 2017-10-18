@@ -1,22 +1,26 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'jekyll serve'. If you change this file, please restart the server process.
+# Dependencies
+markdown:            kramdown
+highlighter:         true
 
-# Site settings
-title: DevJoe
-email: joseph.fehrman@gmail.com
-description: > # this means to ignore newlines until "baseurl:"
-  Welcome to my personal development profile.  This site has some of my
-  personal projects on it.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "jfehrman.github.io" # the base hostname & protocol for your site
-twitter_username: joseph_fehrman
-github_username: jfehrman
+# Permalinks
+permalink:        pretty
 
-# Build settings
-markdown: kramdown
-# Jekyll Theme
-theme: jekyll-theme-midnight
+# Setup
+title:            DevJoe
+tagline:          'All out of bubblegum'
+description:      'Welcome to my personal development profile.  This site has some of my personal projects on it.'
+url:              jfehrman.github.io
+
+author:
+  name:           'Joseph Fehrman'
+  url:            jfehrman.github.io
+
+paginate:         5
+
+# Custom vars
+version:          2.0.0
+
+github:
+  repo:         https://github.com/jfehrman/jfehrman.github.io.git 
+
+plugins:        ['jekyll-paginate']
