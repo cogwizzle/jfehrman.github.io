@@ -1,0 +1,1976 @@
+{
+  "nodes": {
+    "SitePage /dev-404-page/": {
+      "layout": "index",
+      "jsonName": "dev-404-page.json",
+      "internalComponentName": "ComponentDev404Page",
+      "path": "/dev-404-page/",
+      "component": "/home/jfehrman/Development/new.github/.cache/dev-404-page.js",
+      "componentChunkName": "component---cache-dev-404-page-js",
+      "context": {
+        "_PARENT": "SOURCE"
+      },
+      "updatedAt": 1509812979637,
+      "pluginCreator___NODE": "Plugin dev-404-page",
+      "pluginCreatorId": "Plugin dev-404-page",
+      "componentPath": "/home/jfehrman/Development/new.github/.cache/dev-404-page.js",
+      "id": "SitePage /dev-404-page/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "ebdb8994e7366f0a76a22206901caa0c",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin component-page-creator": {
+      "resolve": "/home/jfehrman/Development/new.github/node_modules/gatsby/dist/internal-plugins/component-page-creator",
+      "id": "Plugin component-page-creator",
+      "name": "component-page-creator",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": [],
+        "_PARENT": "SOURCE"
+      },
+      "nodeAPIs": [
+        "createPagesStatefully"
+      ],
+      "pluginFilepath": "/home/jfehrman/Development/new.github/node_modules/gatsby/dist/internal-plugins/component-page-creator",
+      "packageJson": {
+        "name": "component-page-creator",
+        "description": "An internal Gatsby plugin that creates pages from component files in src/pages",
+        "version": "1.0.0",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin"
+        ],
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": [],
+        "_PARENT": "SOURCE"
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "ca3f6c2849dc930922920c7c144a1df0",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin component-layout-creator": {
+      "resolve": "/home/jfehrman/Development/new.github/node_modules/gatsby/dist/internal-plugins/component-layout-creator",
+      "id": "Plugin component-layout-creator",
+      "name": "component-layout-creator",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": [],
+        "_PARENT": "SOURCE"
+      },
+      "nodeAPIs": [
+        "createLayouts"
+      ],
+      "pluginFilepath": "/home/jfehrman/Development/new.github/node_modules/gatsby/dist/internal-plugins/component-layout-creator",
+      "packageJson": {
+        "name": "component-layout-creator",
+        "description": "An internal Gatsby plugin that creates pages from component files in src/layouts",
+        "version": "1.0.0",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin"
+        ],
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": [],
+        "_PARENT": "SOURCE"
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "d5795597732a3c2219ebf192dad236dd",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin internal-data-bridge": {
+      "resolve": "/home/jfehrman/Development/new.github/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
+      "id": "Plugin internal-data-bridge",
+      "name": "internal-data-bridge",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": [],
+        "_PARENT": "SOURCE"
+      },
+      "nodeAPIs": [
+        "sourceNodes",
+        "onCreatePage"
+      ],
+      "pluginFilepath": "/home/jfehrman/Development/new.github/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
+      "packageJson": {
+        "name": "internal-data-bridge",
+        "description": "An internal Gatsby plugin which creates data nodes from internal data",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": [],
+        "_PARENT": "SOURCE"
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "8f398c963c7791b50e2032a905466dc9",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin dev-404-page": {
+      "resolve": "/home/jfehrman/Development/new.github/node_modules/gatsby/dist/internal-plugins/dev-404-page",
+      "id": "Plugin dev-404-page",
+      "name": "dev-404-page",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": [],
+        "_PARENT": "SOURCE"
+      },
+      "nodeAPIs": [
+        "createPages"
+      ],
+      "pluginFilepath": "/home/jfehrman/Development/new.github/node_modules/gatsby/dist/internal-plugins/dev-404-page",
+      "packageJson": {
+        "name": "dev-404-page",
+        "description": "Internal plugin to add a 404 page in development with helpful information",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": [],
+        "_PARENT": "SOURCE"
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "9da2d8d549e05d148d23b56165e02375",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin prod-404": {
+      "resolve": "/home/jfehrman/Development/new.github/node_modules/gatsby/dist/internal-plugins/prod-404",
+      "id": "Plugin prod-404",
+      "name": "prod-404",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": [],
+        "_PARENT": "SOURCE"
+      },
+      "nodeAPIs": [
+        "onCreatePage"
+      ],
+      "pluginFilepath": "/home/jfehrman/Development/new.github/node_modules/gatsby/dist/internal-plugins/prod-404",
+      "packageJson": {
+        "name": "prod-404",
+        "description": "Internal plugin to detect various flavors of 404 pages and ensure there's a 404.html path created as well to ensure compatability with static hosts",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": [],
+        "_PARENT": "SOURCE"
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "d4a369494f9e4510c6269ad3f7c08eaf",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin query-runner": {
+      "resolve": "/home/jfehrman/Development/new.github/node_modules/gatsby/dist/internal-plugins/query-runner",
+      "id": "Plugin query-runner",
+      "name": "query-runner",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": [],
+        "_PARENT": "SOURCE"
+      },
+      "nodeAPIs": [
+        "onCreatePage",
+        "onCreateLayout"
+      ],
+      "pluginFilepath": "/home/jfehrman/Development/new.github/node_modules/gatsby/dist/internal-plugins/query-runner",
+      "packageJson": {
+        "name": "query-runner",
+        "description": "Internal plugin for running queries",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": [],
+        "_PARENT": "SOURCE"
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "6c10a543000abee33ac7ccfeb0771d70",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-source-filesystem": {
+      "resolve": "/home/jfehrman/Development/new.github/node_modules/gatsby-source-filesystem",
+      "id": "Plugin gatsby-source-filesystem",
+      "name": "gatsby-source-filesystem",
+      "version": "1.5.7",
+      "pluginOptions": {
+        "plugins": [],
+        "path": "/home/jfehrman/Development/new.github/src/pages",
+        "name": "pages",
+        "_PARENT": "SOURCE"
+      },
+      "nodeAPIs": [
+        "sourceNodes"
+      ],
+      "pluginFilepath": "/home/jfehrman/Development/new.github/node_modules/gatsby-source-filesystem",
+      "packageJson": {
+        "name": "gatsby-source-filesystem",
+        "description": "Gatsby plugin which parses files within a directory for further parsing by other plugins",
+        "version": "1.5.7",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com",
+          "_PARENT": "SOURCE"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0",
+            "_PARENT": "SOURCE"
+          },
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0",
+            "_PARENT": "SOURCE"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0",
+            "_PARENT": "SOURCE"
+          },
+          {
+            "name": "chokidar",
+            "version": "^1.7.0",
+            "_PARENT": "SOURCE"
+          },
+          {
+            "name": "fs-extra",
+            "version": "^4.0.1",
+            "_PARENT": "SOURCE"
+          },
+          {
+            "name": "got",
+            "version": "^7.1.0",
+            "_PARENT": "SOURCE"
+          },
+          {
+            "name": "md5-file",
+            "version": "^3.1.1",
+            "_PARENT": "SOURCE"
+          },
+          {
+            "name": "mime",
+            "version": "^1.3.6",
+            "_PARENT": "SOURCE"
+          },
+          {
+            "name": "pretty-bytes",
+            "version": "^4.0.2",
+            "_PARENT": "SOURCE"
+          },
+          {
+            "name": "slash",
+            "version": "^1.0.0",
+            "_PARENT": "SOURCE"
+          },
+          {
+            "name": "valid-url",
+            "version": "^1.0.9",
+            "_PARENT": "SOURCE"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "cross-env",
+            "version": "^5.0.5",
+            "_PARENT": "SOURCE"
+          }
+        ],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": [],
+        "_PARENT": "SOURCE"
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "25945f085ad86d3d3289df96aae75420",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-transformer-remark": {
+      "resolve": "/home/jfehrman/Development/new.github/node_modules/gatsby-transformer-remark",
+      "id": "Plugin gatsby-transformer-remark",
+      "name": "gatsby-transformer-remark",
+      "version": "1.7.19",
+      "pluginOptions": {
+        "plugins": [
+          {
+            "resolve": "/home/jfehrman/Development/new.github/node_modules/gatsby-remark-images",
+            "id": "Plugin gatsby-remark-images",
+            "name": "gatsby-remark-images",
+            "version": "1.5.29",
+            "pluginOptions": {
+              "plugins": [],
+              "maxWidth": 590,
+              "_PARENT": "SOURCE",
+              "wrapperStyle": "",
+              "backgroundColor": "white",
+              "linkImagesToOriginal": true,
+              "pathPrefix": ""
+            },
+            "nodeAPIs": [],
+            "_PARENT": "SOURCE",
+            "pluginFilepath": "/home/jfehrman/Development/new.github/node_modules/gatsby-remark-images"
+          },
+          {
+            "resolve": "/home/jfehrman/Development/new.github/node_modules/gatsby-remark-responsive-iframe",
+            "id": "Plugin gatsby-remark-responsive-iframe",
+            "name": "gatsby-remark-responsive-iframe",
+            "version": "1.4.13",
+            "pluginOptions": {
+              "plugins": [],
+              "wrapperStyle": "margin-bottom: 1.0725rem",
+              "_PARENT": "SOURCE"
+            },
+            "nodeAPIs": [],
+            "_PARENT": "SOURCE",
+            "pluginFilepath": "/home/jfehrman/Development/new.github/node_modules/gatsby-remark-responsive-iframe"
+          },
+          {
+            "resolve": "/home/jfehrman/Development/new.github/node_modules/gatsby-remark-prismjs",
+            "id": "Plugin gatsby-remark-prismjs",
+            "name": "gatsby-remark-prismjs",
+            "version": "1.2.9",
+            "pluginOptions": {
+              "plugins": [],
+              "_PARENT": "SOURCE"
+            },
+            "nodeAPIs": [],
+            "_PARENT": "SOURCE",
+            "pluginFilepath": "/home/jfehrman/Development/new.github/node_modules/gatsby-remark-prismjs"
+          },
+          {
+            "resolve": "/home/jfehrman/Development/new.github/node_modules/gatsby-remark-copy-linked-files",
+            "id": "Plugin gatsby-remark-copy-linked-files",
+            "name": "gatsby-remark-copy-linked-files",
+            "version": "1.5.16",
+            "pluginOptions": {
+              "plugins": [],
+              "_PARENT": "SOURCE",
+              "ignoreFileExtensions": [
+                "png",
+                "jpg",
+                "jpeg",
+                "bmp",
+                "tiff"
+              ]
+            },
+            "nodeAPIs": [],
+            "_PARENT": "SOURCE",
+            "pluginFilepath": "/home/jfehrman/Development/new.github/node_modules/gatsby-remark-copy-linked-files"
+          },
+          {
+            "resolve": "/home/jfehrman/Development/new.github/node_modules/gatsby-remark-smartypants",
+            "id": "Plugin gatsby-remark-smartypants",
+            "name": "gatsby-remark-smartypants",
+            "version": "1.4.8",
+            "pluginOptions": {
+              "plugins": [],
+              "_PARENT": "SOURCE"
+            },
+            "nodeAPIs": [],
+            "_PARENT": "SOURCE",
+            "pluginFilepath": "/home/jfehrman/Development/new.github/node_modules/gatsby-remark-smartypants"
+          }
+        ],
+        "_PARENT": "SOURCE"
+      },
+      "nodeAPIs": [
+        "onCreateNode",
+        "setFieldsOnGraphQLNodeType"
+      ],
+      "pluginFilepath": "/home/jfehrman/Development/new.github/node_modules/gatsby-transformer-remark",
+      "packageJson": {
+        "name": "gatsby-transformer-remark",
+        "description": "Gatsby transformer plugin for Markdown using the Remark library and ecosystem",
+        "version": "1.7.19",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "markdown",
+          "remark"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com",
+          "_PARENT": "SOURCE"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0",
+            "_PARENT": "SOURCE"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0",
+            "_PARENT": "SOURCE"
+          },
+          {
+            "name": "gray-matter",
+            "version": "^2.1.0",
+            "_PARENT": "SOURCE"
+          },
+          {
+            "name": "hast-util-to-html",
+            "version": "^3.0.0",
+            "_PARENT": "SOURCE"
+          },
+          {
+            "name": "lodash",
+            "version": "^4.17.4",
+            "_PARENT": "SOURCE"
+          },
+          {
+            "name": "mdast-util-to-hast",
+            "version": "^2.4.0",
+            "_PARENT": "SOURCE"
+          },
+          {
+            "name": "mdast-util-toc",
+            "version": "^2.0.1",
+            "_PARENT": "SOURCE"
+          },
+          {
+            "name": "remark",
+            "version": "^7.0.1",
+            "_PARENT": "SOURCE"
+          },
+          {
+            "name": "remark-parse",
+            "version": "^4.0.0",
+            "_PARENT": "SOURCE"
+          },
+          {
+            "name": "remark-retext",
+            "version": "^3.1.0",
+            "_PARENT": "SOURCE"
+          },
+          {
+            "name": "remark-stringify",
+            "version": "^4.0.0",
+            "_PARENT": "SOURCE"
+          },
+          {
+            "name": "retext-english",
+            "version": "^3.0.0",
+            "_PARENT": "SOURCE"
+          },
+          {
+            "name": "sanitize-html",
+            "version": "^1.14.1",
+            "_PARENT": "SOURCE"
+          },
+          {
+            "name": "underscore.string",
+            "version": "^3.3.4",
+            "_PARENT": "SOURCE"
+          },
+          {
+            "name": "unified",
+            "version": "^6.1.5",
+            "_PARENT": "SOURCE"
+          },
+          {
+            "name": "unist-util-select",
+            "version": "^1.5.0",
+            "_PARENT": "SOURCE"
+          },
+          {
+            "name": "unist-util-visit",
+            "version": "^1.1.1",
+            "_PARENT": "SOURCE"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0",
+            "_PARENT": "SOURCE"
+          },
+          {
+            "name": "babel-plugin-transform-object-rest-spread",
+            "version": "^6.20.2",
+            "_PARENT": "SOURCE"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5",
+            "_PARENT": "SOURCE"
+          }
+        ],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": [],
+        "_PARENT": "SOURCE"
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "706057a4e3b2cc015812b325c526c084",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-remark-images": {
+      "resolve": "/home/jfehrman/Development/new.github/node_modules/gatsby-remark-images",
+      "id": "Plugin gatsby-remark-images",
+      "name": "gatsby-remark-images",
+      "version": "1.5.29",
+      "pluginOptions": {
+        "plugins": [],
+        "maxWidth": 590,
+        "_PARENT": "SOURCE",
+        "wrapperStyle": "",
+        "backgroundColor": "white",
+        "linkImagesToOriginal": true,
+        "pathPrefix": ""
+      },
+      "nodeAPIs": [],
+      "_PARENT": "SOURCE",
+      "pluginFilepath": "/home/jfehrman/Development/new.github/node_modules/gatsby-remark-images",
+      "packageJson": {
+        "name": "gatsby-remark-images",
+        "description": "Processes images in markdown so they can be used in the production build.",
+        "version": "1.5.29",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "markdown",
+          "remark",
+          "image",
+          "responsive images"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com",
+          "_PARENT": "SOURCE"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0",
+            "_PARENT": "SOURCE"
+          },
+          {
+            "name": "cheerio",
+            "version": "^1.0.0-rc.2",
+            "_PARENT": "SOURCE"
+          },
+          {
+            "name": "gatsby-plugin-sharp",
+            "version": "^1.6.18",
+            "_PARENT": "SOURCE"
+          },
+          {
+            "name": "is-relative-url",
+            "version": "^2.0.0",
+            "_PARENT": "SOURCE"
+          },
+          {
+            "name": "lodash",
+            "version": "^4.17.4",
+            "_PARENT": "SOURCE"
+          },
+          {
+            "name": "slash",
+            "version": "^1.0.0",
+            "_PARENT": "SOURCE"
+          },
+          {
+            "name": "unist-util-select",
+            "version": "^1.5.0",
+            "_PARENT": "SOURCE"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0",
+            "_PARENT": "SOURCE"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5",
+            "_PARENT": "SOURCE"
+          }
+        ],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": [],
+        "_PARENT": "SOURCE"
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "a37fcbd88bcb63ab1b5c90748d2c37d8",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-remark-responsive-iframe": {
+      "resolve": "/home/jfehrman/Development/new.github/node_modules/gatsby-remark-responsive-iframe",
+      "id": "Plugin gatsby-remark-responsive-iframe",
+      "name": "gatsby-remark-responsive-iframe",
+      "version": "1.4.13",
+      "pluginOptions": {
+        "plugins": [],
+        "wrapperStyle": "margin-bottom: 1.0725rem",
+        "_PARENT": "SOURCE"
+      },
+      "nodeAPIs": [],
+      "_PARENT": "SOURCE",
+      "pluginFilepath": "/home/jfehrman/Development/new.github/node_modules/gatsby-remark-responsive-iframe",
+      "packageJson": {
+        "name": "gatsby-remark-responsive-iframe",
+        "description": "Make iframes in Markdown processed by Remark responsive",
+        "version": "1.4.13",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "remark"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com",
+          "_PARENT": "SOURCE"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0",
+            "_PARENT": "SOURCE"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0",
+            "_PARENT": "SOURCE"
+          },
+          {
+            "name": "cheerio",
+            "version": "^1.0.0-rc.2",
+            "_PARENT": "SOURCE"
+          },
+          {
+            "name": "lodash",
+            "version": "^4.17.4",
+            "_PARENT": "SOURCE"
+          },
+          {
+            "name": "unist-util-visit",
+            "version": "^1.1.1",
+            "_PARENT": "SOURCE"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0",
+            "_PARENT": "SOURCE"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5",
+            "_PARENT": "SOURCE"
+          },
+          {
+            "name": "remark",
+            "version": "^7.0.0",
+            "_PARENT": "SOURCE"
+          },
+          {
+            "name": "unist-util-find",
+            "version": "^1.0.1",
+            "_PARENT": "SOURCE"
+          }
+        ],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": [],
+        "_PARENT": "SOURCE"
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "5d1ec0a29cd8623d6d829f762a262a84",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-remark-prismjs": {
+      "resolve": "/home/jfehrman/Development/new.github/node_modules/gatsby-remark-prismjs",
+      "id": "Plugin gatsby-remark-prismjs",
+      "name": "gatsby-remark-prismjs",
+      "version": "1.2.9",
+      "pluginOptions": {
+        "plugins": [],
+        "_PARENT": "SOURCE"
+      },
+      "nodeAPIs": [],
+      "_PARENT": "SOURCE",
+      "pluginFilepath": "/home/jfehrman/Development/new.github/node_modules/gatsby-remark-prismjs",
+      "packageJson": {
+        "name": "gatsby-remark-prismjs",
+        "description": "Adds syntax highlighting to code blocks at build time using PrismJS",
+        "version": "1.2.9",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "prismjs",
+          "remark"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com",
+          "_PARENT": "SOURCE"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0",
+            "_PARENT": "SOURCE"
+          },
+          {
+            "name": "parse-numeric-range",
+            "version": "^0.0.2",
+            "_PARENT": "SOURCE"
+          },
+          {
+            "name": "prismjs",
+            "version": "^1.7.0",
+            "_PARENT": "SOURCE"
+          },
+          {
+            "name": "unist-util-visit",
+            "version": "^1.1.1",
+            "_PARENT": "SOURCE"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0",
+            "_PARENT": "SOURCE"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5",
+            "_PARENT": "SOURCE"
+          },
+          {
+            "name": "remark",
+            "version": "^7.0.1",
+            "_PARENT": "SOURCE"
+          }
+        ],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": [],
+        "_PARENT": "SOURCE"
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "b2fd60796455870d28d6cfbeb4b429a0",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-remark-copy-linked-files": {
+      "resolve": "/home/jfehrman/Development/new.github/node_modules/gatsby-remark-copy-linked-files",
+      "id": "Plugin gatsby-remark-copy-linked-files",
+      "name": "gatsby-remark-copy-linked-files",
+      "version": "1.5.16",
+      "pluginOptions": {
+        "plugins": [],
+        "_PARENT": "SOURCE",
+        "ignoreFileExtensions": [
+          "png",
+          "jpg",
+          "jpeg",
+          "bmp",
+          "tiff"
+        ]
+      },
+      "nodeAPIs": [],
+      "_PARENT": "SOURCE",
+      "pluginFilepath": "/home/jfehrman/Development/new.github/node_modules/gatsby-remark-copy-linked-files",
+      "packageJson": {
+        "name": "gatsby-remark-copy-linked-files",
+        "description": "Find files which are linked to from markdown and copy them to the public directory",
+        "version": "1.5.16",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "prismjs",
+          "remark"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com",
+          "_PARENT": "SOURCE"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0",
+            "_PARENT": "SOURCE"
+          },
+          {
+            "name": "cheerio",
+            "version": "^1.0.0-rc.2",
+            "_PARENT": "SOURCE"
+          },
+          {
+            "name": "fs-extra",
+            "version": "^4.0.1",
+            "_PARENT": "SOURCE"
+          },
+          {
+            "name": "image-size",
+            "version": "^0.6.1",
+            "_PARENT": "SOURCE"
+          },
+          {
+            "name": "is-relative-url",
+            "version": "^2.0.0",
+            "_PARENT": "SOURCE"
+          },
+          {
+            "name": "lodash",
+            "version": "^4.17.4",
+            "_PARENT": "SOURCE"
+          },
+          {
+            "name": "unist-util-visit",
+            "version": "^1.1.1",
+            "_PARENT": "SOURCE"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0",
+            "_PARENT": "SOURCE"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5",
+            "_PARENT": "SOURCE"
+          }
+        ],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": [],
+        "_PARENT": "SOURCE"
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "ec97645ca65410f9dd6107586e067658",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-remark-smartypants": {
+      "resolve": "/home/jfehrman/Development/new.github/node_modules/gatsby-remark-smartypants",
+      "id": "Plugin gatsby-remark-smartypants",
+      "name": "gatsby-remark-smartypants",
+      "version": "1.4.8",
+      "pluginOptions": {
+        "plugins": [],
+        "_PARENT": "SOURCE"
+      },
+      "nodeAPIs": [],
+      "_PARENT": "SOURCE",
+      "pluginFilepath": "/home/jfehrman/Development/new.github/node_modules/gatsby-remark-smartypants",
+      "packageJson": {
+        "name": "gatsby-remark-smartypants",
+        "description": "Use retext-smartypants to auto-enhance typography of markdown",
+        "version": "1.4.8",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "smartypants"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com",
+          "_PARENT": "SOURCE"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0",
+            "_PARENT": "SOURCE"
+          },
+          {
+            "name": "retext",
+            "version": "^4.0.0",
+            "_PARENT": "SOURCE"
+          },
+          {
+            "name": "retext-smartypants",
+            "version": "^2.0.0",
+            "_PARENT": "SOURCE"
+          },
+          {
+            "name": "unist-util-visit",
+            "version": "^1.1.1",
+            "_PARENT": "SOURCE"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0",
+            "_PARENT": "SOURCE"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5",
+            "_PARENT": "SOURCE"
+          }
+        ],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": [],
+        "_PARENT": "SOURCE"
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "07dfcd9c48d00fe36cc430081e49bdc4",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-transformer-sharp": {
+      "resolve": "/home/jfehrman/Development/new.github/node_modules/gatsby-transformer-sharp",
+      "id": "Plugin gatsby-transformer-sharp",
+      "name": "gatsby-transformer-sharp",
+      "version": "1.6.13",
+      "pluginOptions": {
+        "plugins": [],
+        "_PARENT": "SOURCE"
+      },
+      "nodeAPIs": [
+        "onCreateNode",
+        "setFieldsOnGraphQLNodeType",
+        "onPreExtractQueries"
+      ],
+      "pluginFilepath": "/home/jfehrman/Development/new.github/node_modules/gatsby-transformer-sharp",
+      "packageJson": {
+        "name": "gatsby-transformer-sharp",
+        "description": "Gatsby transformer plugin for images using Sharp",
+        "version": "1.6.13",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "sharp",
+          "image"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com",
+          "_PARENT": "SOURCE"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0",
+            "_PARENT": "SOURCE"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0",
+            "_PARENT": "SOURCE"
+          },
+          {
+            "name": "fs-extra",
+            "version": "^4.0.2",
+            "_PARENT": "SOURCE"
+          },
+          {
+            "name": "image-size",
+            "version": "^0.6.0",
+            "_PARENT": "SOURCE"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0",
+            "_PARENT": "SOURCE"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5",
+            "_PARENT": "SOURCE"
+          }
+        ],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": [],
+        "_PARENT": "SOURCE"
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "08bd2764c82ab5948f7818479b2bee82",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-plugin-sharp": {
+      "resolve": "/home/jfehrman/Development/new.github/node_modules/gatsby-plugin-sharp",
+      "id": "Plugin gatsby-plugin-sharp",
+      "name": "gatsby-plugin-sharp",
+      "version": "1.6.18",
+      "pluginOptions": {
+        "plugins": [],
+        "_PARENT": "SOURCE"
+      },
+      "nodeAPIs": [],
+      "pluginFilepath": "/home/jfehrman/Development/new.github/node_modules/gatsby-plugin-sharp",
+      "packageJson": {
+        "name": "gatsby-plugin-sharp",
+        "description": "Wrapper of the Sharp image manipulation library for Gatsby plugins",
+        "version": "1.6.18",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "image",
+          "sharp"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com",
+          "_PARENT": "SOURCE"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "async",
+            "version": "^2.1.2",
+            "_PARENT": "SOURCE"
+          },
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0",
+            "_PARENT": "SOURCE"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0",
+            "_PARENT": "SOURCE"
+          },
+          {
+            "name": "image-size",
+            "version": "^0.5.1",
+            "_PARENT": "SOURCE"
+          },
+          {
+            "name": "imagemin",
+            "version": "^5.2.2",
+            "_PARENT": "SOURCE"
+          },
+          {
+            "name": "imagemin-pngquant",
+            "version": "^5.0.0",
+            "_PARENT": "SOURCE"
+          },
+          {
+            "name": "imagemin-webp",
+            "version": "^4.0.0",
+            "_PARENT": "SOURCE"
+          },
+          {
+            "name": "lodash",
+            "version": "^4.17.4",
+            "_PARENT": "SOURCE"
+          },
+          {
+            "name": "potrace",
+            "version": "^2.1.1",
+            "_PARENT": "SOURCE"
+          },
+          {
+            "name": "progress",
+            "version": "^1.1.8",
+            "_PARENT": "SOURCE"
+          },
+          {
+            "name": "sharp",
+            "version": "^0.17.3",
+            "_PARENT": "SOURCE"
+          },
+          {
+            "name": "svgo",
+            "version": "^0.7.2",
+            "_PARENT": "SOURCE"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0",
+            "_PARENT": "SOURCE"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5",
+            "_PARENT": "SOURCE"
+          }
+        ],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": [],
+        "_PARENT": "SOURCE"
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "b11ae33d5d81e56a32842c7cc640eca9",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-plugin-google-analytics": {
+      "resolve": "/home/jfehrman/Development/new.github/node_modules/gatsby-plugin-google-analytics",
+      "id": "Plugin gatsby-plugin-google-analytics",
+      "name": "gatsby-plugin-google-analytics",
+      "version": "1.0.11",
+      "pluginOptions": {
+        "plugins": [],
+        "_PARENT": "SOURCE"
+      },
+      "nodeAPIs": [],
+      "pluginFilepath": "/home/jfehrman/Development/new.github/node_modules/gatsby-plugin-google-analytics",
+      "packageJson": {
+        "name": "gatsby-plugin-google-analytics",
+        "description": "Gatsby plugin to add google analytics onto a site",
+        "version": "1.0.11",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "google analytics"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com",
+          "_PARENT": "SOURCE"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0",
+            "_PARENT": "SOURCE"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0",
+            "_PARENT": "SOURCE"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5",
+            "_PARENT": "SOURCE"
+          }
+        ],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": [],
+        "_PARENT": "SOURCE"
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "850f2161cc566709b2e0a26b4668ca5d",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-plugin-offline": {
+      "resolve": "/home/jfehrman/Development/new.github/node_modules/gatsby-plugin-offline",
+      "id": "Plugin gatsby-plugin-offline",
+      "name": "gatsby-plugin-offline",
+      "version": "1.0.10",
+      "pluginOptions": {
+        "plugins": [],
+        "_PARENT": "SOURCE"
+      },
+      "nodeAPIs": [
+        "createPages",
+        "onPostBuild"
+      ],
+      "pluginFilepath": "/home/jfehrman/Development/new.github/node_modules/gatsby-plugin-offline",
+      "packageJson": {
+        "name": "gatsby-plugin-offline",
+        "description": "Gatsby plugin which sets up a site to be able to run offline",
+        "version": "1.0.10",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "offline",
+          "precache",
+          "service-worker"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com",
+          "_PARENT": "SOURCE"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0",
+            "_PARENT": "SOURCE"
+          },
+          {
+            "name": "sw-precache",
+            "version": "^5.0.0",
+            "_PARENT": "SOURCE"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0",
+            "_PARENT": "SOURCE"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5",
+            "_PARENT": "SOURCE"
+          }
+        ],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": [],
+        "_PARENT": "SOURCE"
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "77e15b224d078c51db284a1c9ec9f1b2",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-plugin-react-helmet": {
+      "resolve": "/home/jfehrman/Development/new.github/node_modules/gatsby-plugin-react-helmet",
+      "id": "Plugin gatsby-plugin-react-helmet",
+      "name": "gatsby-plugin-react-helmet",
+      "version": "1.0.8",
+      "pluginOptions": {
+        "plugins": [],
+        "_PARENT": "SOURCE"
+      },
+      "nodeAPIs": [],
+      "pluginFilepath": "/home/jfehrman/Development/new.github/node_modules/gatsby-plugin-react-helmet",
+      "packageJson": {
+        "name": "gatsby-plugin-react-helmet",
+        "description": "Stub description for gatsby-plugin-react-helmet",
+        "version": "1.0.8",
+        "main": "index.js",
+        "keywords": [
+          "gatsby"
+        ],
+        "author": {
+          "name": "Kyle Mathews &lt;mathews.kyle@gmail.com&gt;",
+          "_PARENT": "SOURCE"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0",
+            "_PARENT": "SOURCE"
+          },
+          {
+            "name": "react-helmet",
+            "version": "^5.1.3",
+            "_PARENT": "SOURCE"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0",
+            "_PARENT": "SOURCE"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5",
+            "_PARENT": "SOURCE"
+          }
+        ],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": [],
+        "_PARENT": "SOURCE"
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "d378720204a15002cd5c988aab898f40",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-plugin-typography": {
+      "resolve": "/home/jfehrman/Development/new.github/node_modules/gatsby-plugin-typography",
+      "id": "Plugin gatsby-plugin-typography",
+      "name": "gatsby-plugin-typography",
+      "version": "1.7.10",
+      "pluginOptions": {
+        "plugins": [],
+        "pathToConfigModule": "src/utils/typography",
+        "_PARENT": "SOURCE"
+      },
+      "nodeAPIs": [
+        "onPreBootstrap"
+      ],
+      "pluginFilepath": "/home/jfehrman/Development/new.github/node_modules/gatsby-plugin-typography",
+      "packageJson": {
+        "name": "gatsby-plugin-typography",
+        "description": "Gatsby plugin to setup server rendering of Typography.js' CSS",
+        "version": "1.7.10",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "typography",
+          "typography.js"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com",
+          "_PARENT": "SOURCE"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0",
+            "_PARENT": "SOURCE"
+          },
+          {
+            "name": "react-typography",
+            "version": "^0.16.1",
+            "_PARENT": "SOURCE"
+          },
+          {
+            "name": "typography",
+            "version": "^0.16.0",
+            "_PARENT": "SOURCE"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "cross-env",
+            "version": "^5.0.5",
+            "_PARENT": "SOURCE"
+          }
+        ],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": [],
+        "_PARENT": "SOURCE"
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "188e5d1f5391642bf4bd782b52051b6b",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin default-site-plugin": {
+      "resolve": "/home/jfehrman/Development/new.github",
+      "id": "Plugin default-site-plugin",
+      "name": "default-site-plugin",
+      "version": "69728b98f165bdb902fc283f96ffe754",
+      "pluginOptions": {
+        "plugins": [],
+        "_PARENT": "SOURCE"
+      },
+      "nodeAPIs": [
+        "createPages"
+      ],
+      "pluginFilepath": "/home/jfehrman/Development/new.github",
+      "packageJson": {
+        "name": "gatsby-starter-blog",
+        "description": "DevJoe",
+        "version": "1.0.0",
+        "main": "n/a",
+        "keywords": [
+          "gatsby"
+        ],
+        "author": "Joe Fehrman",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "gatsby",
+            "version": "^1.9.92",
+            "_PARENT": "SOURCE"
+          },
+          {
+            "name": "gatsby-link",
+            "version": "^1.6.24",
+            "_PARENT": "SOURCE"
+          },
+          {
+            "name": "gatsby-plugin-google-analytics",
+            "version": "^1.0.11",
+            "_PARENT": "SOURCE"
+          },
+          {
+            "name": "gatsby-plugin-offline",
+            "version": "^1.0.10",
+            "_PARENT": "SOURCE"
+          },
+          {
+            "name": "gatsby-plugin-react-helmet",
+            "version": "^1.0.8",
+            "_PARENT": "SOURCE"
+          },
+          {
+            "name": "gatsby-plugin-sharp",
+            "version": "^1.6.17",
+            "_PARENT": "SOURCE"
+          },
+          {
+            "name": "gatsby-plugin-typography",
+            "version": "^1.7.10",
+            "_PARENT": "SOURCE"
+          },
+          {
+            "name": "gatsby-remark-copy-linked-files",
+            "version": "^1.5.16",
+            "_PARENT": "SOURCE"
+          },
+          {
+            "name": "gatsby-remark-images",
+            "version": "^1.5.28",
+            "_PARENT": "SOURCE"
+          },
+          {
+            "name": "gatsby-remark-prismjs",
+            "version": "^1.2.9",
+            "_PARENT": "SOURCE"
+          },
+          {
+            "name": "gatsby-remark-responsive-iframe",
+            "version": "^1.4.8",
+            "_PARENT": "SOURCE"
+          },
+          {
+            "name": "gatsby-remark-smartypants",
+            "version": "^1.4.8",
+            "_PARENT": "SOURCE"
+          },
+          {
+            "name": "gatsby-source-filesystem",
+            "version": "^1.5.6",
+            "_PARENT": "SOURCE"
+          },
+          {
+            "name": "gatsby-transformer-remark",
+            "version": "^1.7.19",
+            "_PARENT": "SOURCE"
+          },
+          {
+            "name": "gatsby-transformer-sharp",
+            "version": "^1.6.10",
+            "_PARENT": "SOURCE"
+          },
+          {
+            "name": "lodash",
+            "version": "^4.15.0",
+            "_PARENT": "SOURCE"
+          },
+          {
+            "name": "react-responsive-grid",
+            "version": "^0.3.3",
+            "_PARENT": "SOURCE"
+          },
+          {
+            "name": "typeface-merriweather",
+            "version": "^0.0.35",
+            "_PARENT": "SOURCE"
+          },
+          {
+            "name": "typeface-montserrat",
+            "version": "^0.0.37",
+            "_PARENT": "SOURCE"
+          },
+          {
+            "name": "typography-theme-wordpress-2016",
+            "version": "^0.15.1",
+            "_PARENT": "SOURCE"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "eslint",
+            "version": "^4.9.0",
+            "_PARENT": "SOURCE"
+          },
+          {
+            "name": "eslint-plugin-react",
+            "version": "^7.4.0",
+            "_PARENT": "SOURCE"
+          },
+          {
+            "name": "gh-pages",
+            "version": "^0.12.0",
+            "_PARENT": "SOURCE"
+          },
+          {
+            "name": "prettier",
+            "version": "^1.7.4",
+            "_PARENT": "SOURCE"
+          }
+        ],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": [],
+        "_PARENT": "SOURCE"
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "ccfd5a072b7674bcb9c4e700fa904ccb",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Site": {
+      "siteMetadata": {
+        "title": "Gatsby Starter Blog",
+        "author": "Kyle Mathews",
+        "_PARENT": "SOURCE"
+      },
+      "port": "8000",
+      "host": "localhost",
+      "pathPrefix": "",
+      "polyfill": true,
+      "buildTime": "2017-11-04T16:28:54.371Z",
+      "id": "Site",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "99be972069d04fce960a2026b4bb25c2",
+        "type": "Site",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "/home/jfehrman/Development/new.github/src/pages absPath of file": {
+      "id": "/home/jfehrman/Development/new.github/src/pages absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "0ffe59b2eae94c89ed875fb52a8ba728",
+        "type": "Directory",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/home/jfehrman/Development/new.github/src/pages",
+      "relativePath": "",
+      "extension": "",
+      "size": 4096,
+      "prettySize": "4.1 kB",
+      "modifiedTime": "2017-11-04T16:26:41.786Z",
+      "accessTime": "2017-11-04T16:14:08.053Z",
+      "changeTime": "2017-11-04T16:26:41.786Z",
+      "birthTime": "2017-11-04T16:26:41.786Z",
+      "root": "/",
+      "dir": "/home/jfehrman/Development/new.github/src",
+      "base": "pages",
+      "ext": "",
+      "name": "pages",
+      "relativeDirectory": "..",
+      "dev": 45,
+      "mode": 16893,
+      "nlink": 6,
+      "uid": 1000,
+      "gid": 1000,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 13244746,
+      "blocks": 8,
+      "atime": "2017-11-04T16:14:08.053Z",
+      "mtime": "2017-11-04T16:26:41.786Z",
+      "ctime": "2017-11-04T16:26:41.786Z",
+      "birthtime": "2017-11-04T16:26:41.786Z"
+    },
+    "/home/jfehrman/Development/new.github/src/pages/index.js absPath of file": {
+      "id": "/home/jfehrman/Development/new.github/src/pages/index.js absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "f4f69985d03ec8bbe085930e921e16df",
+        "mediaType": "application/javascript",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/home/jfehrman/Development/new.github/src/pages/index.js",
+      "relativePath": "index.js",
+      "extension": "js",
+      "size": 1742,
+      "prettySize": "1.74 kB",
+      "modifiedTime": "2017-11-03T00:41:22.292Z",
+      "accessTime": "2017-11-04T16:14:08.085Z",
+      "changeTime": "2017-11-04T16:14:08.085Z",
+      "birthTime": "2017-11-04T16:14:08.085Z",
+      "root": "/",
+      "dir": "/home/jfehrman/Development/new.github/src/pages",
+      "base": "index.js",
+      "ext": ".js",
+      "name": "index",
+      "relativeDirectory": "",
+      "dev": 45,
+      "mode": 33204,
+      "nlink": 1,
+      "uid": 1000,
+      "gid": 1000,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 13244758,
+      "blocks": 24,
+      "atime": "2017-11-04T16:14:08.085Z",
+      "mtime": "2017-11-03T00:41:22.292Z",
+      "ctime": "2017-11-04T16:14:08.085Z",
+      "birthtime": "2017-11-04T16:14:08.085Z"
+    },
+    "/home/jfehrman/Development/new.github/src/pages/2017-10-13-Vimpossible absPath of file": {
+      "id": "/home/jfehrman/Development/new.github/src/pages/2017-10-13-Vimpossible absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "18f9d3704f89d7abd2e11ae63a6c1180",
+        "type": "Directory",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/home/jfehrman/Development/new.github/src/pages/2017-10-13-Vimpossible",
+      "relativePath": "2017-10-13-Vimpossible",
+      "extension": "",
+      "size": 4096,
+      "prettySize": "4.1 kB",
+      "modifiedTime": "2017-11-04T16:28:46.037Z",
+      "accessTime": "2017-11-04T16:26:22.718Z",
+      "changeTime": "2017-11-04T16:28:46.037Z",
+      "birthTime": "2017-11-04T16:28:46.037Z",
+      "root": "/",
+      "dir": "/home/jfehrman/Development/new.github/src/pages",
+      "base": "2017-10-13-Vimpossible",
+      "ext": "",
+      "name": "2017-10-13-Vimpossible",
+      "relativeDirectory": "",
+      "dev": 45,
+      "mode": 16893,
+      "nlink": 2,
+      "uid": 1000,
+      "gid": 1000,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 13244778,
+      "blocks": 8,
+      "atime": "2017-11-04T16:26:22.718Z",
+      "mtime": "2017-11-04T16:28:46.037Z",
+      "ctime": "2017-11-04T16:28:46.037Z",
+      "birthtime": "2017-11-04T16:28:46.037Z"
+    },
+    "/home/jfehrman/Development/new.github/src/pages/2017-10-13-Vimpossible/index.md absPath of file": {
+      "id": "/home/jfehrman/Development/new.github/src/pages/2017-10-13-Vimpossible/index.md absPath of file",
+      "children": [
+        "/home/jfehrman/Development/new.github/src/pages/2017-10-13-Vimpossible/index.md absPath of file >>> MarkdownRemark"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "23ec65ee3c6e9b778dc9d955c28f709f",
+        "mediaType": "text/markdown",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/home/jfehrman/Development/new.github/src/pages/2017-10-13-Vimpossible/index.md",
+      "relativePath": "2017-10-13-Vimpossible/index.md",
+      "extension": "md",
+      "size": 4821,
+      "prettySize": "4.82 kB",
+      "modifiedTime": "2017-11-04T16:28:46.029Z",
+      "accessTime": "2017-11-04T16:28:46.025Z",
+      "changeTime": "2017-11-04T16:28:46.029Z",
+      "birthTime": "2017-11-04T16:28:46.029Z",
+      "root": "/",
+      "dir": "/home/jfehrman/Development/new.github/src/pages/2017-10-13-Vimpossible",
+      "base": "index.md",
+      "ext": ".md",
+      "name": "index",
+      "relativeDirectory": "2017-10-13-Vimpossible",
+      "dev": 45,
+      "mode": 33204,
+      "nlink": 1,
+      "uid": 1000,
+      "gid": 1000,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 13244781,
+      "blocks": 32,
+      "atime": "2017-11-04T16:28:46.025Z",
+      "mtime": "2017-11-04T16:28:46.029Z",
+      "ctime": "2017-11-04T16:28:46.029Z",
+      "birthtime": "2017-11-04T16:28:46.029Z"
+    },
+    "/home/jfehrman/Development/new.github/src/pages/2017-10-13-Vimpossible/index.md absPath of file >>> MarkdownRemark": {
+      "id": "/home/jfehrman/Development/new.github/src/pages/2017-10-13-Vimpossible/index.md absPath of file >>> MarkdownRemark",
+      "children": [],
+      "parent": "/home/jfehrman/Development/new.github/src/pages/2017-10-13-Vimpossible/index.md absPath of file",
+      "internal": {
+        "content": "---\ntitle:  That is simply Vimpossible!\ndate:   2017-10-13T18:01:35\npath:   /Vimpossible-2017-10-13\ncategories: VIM Vimpossible vimrc .vimrc plugins git menu fugitive nerdtree highlight syntax\n---\n# VIM...\nThe Grey Beards' ancient magic trump card of an editor.  Feared by many, adored by the masters.  This application has terrorized many computer scientist and made programmers petrified.  I have found a way to tame the beast within!\n\nOk, but seriously I hear those developers that say \"VIM is too hard to learn.\"  To be honest they are right.  VIM is weird and not like most editors.  Most people can't figure out how to exit the program and it took even the best VIM users a few months to figure out most of it's features.  Once you get past the steep learning curve there is a lot of good reasons to use it though.\n\nFor starters VIM runs everywhere.  Windows users you can use VIM.  Mac users VIM works for you as well. No Apple Care required.  And for my fellow Linux users we also get to enjoy VIM.  Do you need an editor while SSHing into a server?  VIM does that.  Do you need a lightweight editor to run on old hardware?  VIM for you too.  Want an editor for your Android Phone?  VIM has an app for that.\n\nVIM is customizable.  VIM starts as a simple text editor, but it evolves into so much more with the use of plugins.  [Vim Awesome](https://vimawesome.com/) has tons of plugins that allow you to make VIM into anything that you want.  It can handle most features of modern IDEs and it can do it from ther terminal.  Make it into whatever you need.\n\nI could go on and on all day long about a million other reasons that VIM is awesome.  Chances are eventually even if you don't want to you will need to use it.  In college I never learned VIM because I didn't think I would ever use it.  But now I can see what a fool I was for thinking that I would never need it.  Now I can't see developing without it.\n\n# Vimpossible\nSo what is Vimpossible?  Vimpossible is a basic vimrc configuration that I built for my friends and coworkers who don't usually use VIM.  Vimpossible boldly attempts to create a base vimrc file that will make the process of getting started a little bit easier.\n\nSo what makes Vimpossible so special in comparison with other vimrc configurations?  Vimpossible tries to keep the customization and features added really basic so the user can expand on the toolset as they see fit.  Vimpossible doesn't try to make assumptions and do everything, but instead removes some of the hurdles of getting started and stays out of the way of the user's customization.\n\n# Plugins\n\n## Nerdtree\nNerdtree is an amazing addition to any VIM configuration.  It allows you to have a file browser built into VIM that makes it feel like other editors that new VIM users would be use to.  Traversing folders, and selecting files has never been easier in VIM.  Additionally Vimpossible enables the mouse if possible to allow the user to use the mouse to navigate.  Nerdtree tabs adds better support for switching tabs with Nerdtree and Nerdtree git allows the user to see git file change indicators next to the files in a git repository.\n\n## Simplemenu\nThis is a great gem that I only found after hours of searching.  Simplemenu allows a user to create custom menus for hard to remember commands using the \\<leader\\> m key combination.  By default leader is usually the '\\\\' key so the key presses would be '\\\\', and then 'm'.  This will open a small context menu that by default comes prebuilt with some fugitive commands built into an example menu.\n\n## Fugitive\nFugitive is an amazing plugin that integrates GIT version control into VIM.  For people like me who always use git as their version control it is a life saver.  No more navigating out of VIM to make commits on the command line.  It is now all built into the amazing editor VIM.\n\n# Configuration\nVimpossible comes with a few additional default configuration features.  The most notable feature is that Vimpossible enables the mouse.  This will allow new VIM users to adjust slowly to the VIM navigation system.  It also has some compatiblity features added for running all of the plugins and ensuring the VIM colors show up the correct way.  The configuration is held inside of the vimrc file which is very basic but can be changed into whatever you need it to be.\n\nNeovim support is added through the .config directory.\n\n# Sign off\nI will continue to build and add features to Vimpossible and if it makes one person's transition into VIM easier it has made the entire project worth it.  VIM runs everywhere so chances are everyone will see it at somepoint.  Vimpossible will continue to make those experiences where you have to use VIM better and hey maybe even one day you might find that Vimpossible did the impossible and made you a VIM convert.\n",
+        "contentDigest": "0b8e35fe7860e150b9fdd13dab01284d",
+        "type": "MarkdownRemark",
+        "owner": "gatsby-transformer-remark"
+      },
+      "frontmatter": {
+        "title": "That is simply Vimpossible!",
+        "date": "2017-10-13T18:01:35.000Z",
+        "path": "/Vimpossible-2017-10-13",
+        "categories": "VIM Vimpossible vimrc .vimrc plugins git menu fugitive nerdtree highlight syntax",
+        "_PARENT": "/home/jfehrman/Development/new.github/src/pages/2017-10-13-Vimpossible/index.md absPath of file",
+        "parent": "/home/jfehrman/Development/new.github/src/pages/2017-10-13-Vimpossible/index.md absPath of file"
+      },
+      "fileAbsolutePath": "/home/jfehrman/Development/new.github/src/pages/2017-10-13-Vimpossible/index.md"
+    },
+    "SitePage /hello-world/": {
+      "layout": "index",
+      "jsonName": "hello-world.json",
+      "internalComponentName": "ComponentHelloWorld",
+      "path": "/hello-world/",
+      "component": "/home/jfehrman/Development/new.github/src/templates/blog-post.js",
+      "componentChunkName": "component---src-templates-blog-post-js",
+      "context": {
+        "path": "/hello-world/",
+        "_PARENT": "SOURCE"
+      },
+      "updatedAt": 1509812936335,
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/home/jfehrman/Development/new.github/src/templates/blog-post.js",
+      "id": "SitePage /hello-world/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "74da3cb1b9e7c8a9dfa3965afed65ce8",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /hi-folks/": {
+      "layout": "index",
+      "jsonName": "hi-folks.json",
+      "internalComponentName": "ComponentHiFolks",
+      "path": "/hi-folks/",
+      "component": "/home/jfehrman/Development/new.github/src/templates/blog-post.js",
+      "componentChunkName": "component---src-templates-blog-post-js",
+      "context": {
+        "path": "/hi-folks/",
+        "_PARENT": "SOURCE"
+      },
+      "updatedAt": 1509812936336,
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/home/jfehrman/Development/new.github/src/templates/blog-post.js",
+      "id": "SitePage /hi-folks/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "04db0c0a5d881c910916dfc244a331cf",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /my-second-post/": {
+      "layout": "index",
+      "jsonName": "my-second-post.json",
+      "internalComponentName": "ComponentMySecondPost",
+      "path": "/my-second-post/",
+      "component": "/home/jfehrman/Development/new.github/src/templates/blog-post.js",
+      "componentChunkName": "component---src-templates-blog-post-js",
+      "context": {
+        "path": "/my-second-post/",
+        "_PARENT": "SOURCE"
+      },
+      "updatedAt": 1509812936337,
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/home/jfehrman/Development/new.github/src/templates/blog-post.js",
+      "id": "SitePage /my-second-post/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "ccff377efeda36fd6ff4a4c35ac34f46",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /Vimpossible-2017-10-13": {
+      "layout": "index",
+      "jsonName": "vimpossible-2017-10-13.json",
+      "internalComponentName": "ComponentVimpossible20171013",
+      "path": "/Vimpossible-2017-10-13",
+      "component": "/home/jfehrman/Development/new.github/src/templates/blog-post.js",
+      "componentChunkName": "component---src-templates-blog-post-js",
+      "context": {
+        "path": "/Vimpossible-2017-10-13",
+        "_PARENT": "SOURCE"
+      },
+      "updatedAt": 1509812979677,
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/home/jfehrman/Development/new.github/src/templates/blog-post.js",
+      "id": "SitePage /Vimpossible-2017-10-13",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "d21de82ccc97ca6de09978d9d63dc2f7",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /": {
+      "layout": "index",
+      "jsonName": "index.json",
+      "internalComponentName": "ComponentIndex",
+      "path": "/",
+      "component": "/home/jfehrman/Development/new.github/src/pages/index.js",
+      "componentChunkName": "component---src-pages-index-js",
+      "context": {
+        "_PARENT": "SOURCE"
+      },
+      "updatedAt": 1509812936348,
+      "pluginCreator___NODE": "Plugin component-page-creator",
+      "pluginCreatorId": "Plugin component-page-creator",
+      "componentPath": "/home/jfehrman/Development/new.github/src/pages/index.js",
+      "id": "SitePage /",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "da587d3f0ba8781ef302769152f2dbfe",
+        "owner": "internal-data-bridge"
+      }
+    }
+  },
+  "status": {
+    "plugins": {},
+    "PLUGINS_HASH": "e8edac94aed1a5a35c12c52564a215b5"
+  },
+  "componentDataDependencies": {
+    "nodes": {
+      "Site": [
+        "/hello-world/",
+        "/hi-folks/",
+        "/my-second-post/",
+        "/",
+        "/Vimpossible-2017-10-13"
+      ],
+      "/home/jfehrman/Development/new.github/src/pages/2017-10-13-Vimpossible/index.md absPath of file >>> MarkdownRemark": [
+        "/Vimpossible-2017-10-13"
+      ]
+    },
+    "connections": {
+      "MarkdownRemark": [
+        "/"
+      ],
+      "SitePage": [
+        "/dev-404-page/"
+      ]
+    }
+  }
+}

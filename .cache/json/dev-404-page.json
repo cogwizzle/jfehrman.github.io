@@ -1,0 +1,37 @@
+{
+    "data": {
+        "allSitePage": {
+            "totalCount": 5,
+            "edges": [
+                {
+                    "node": {
+                        "path": "/hello-world/"
+                    }
+                },
+                {
+                    "node": {
+                        "path": "/hi-folks/"
+                    }
+                },
+                {
+                    "node": {
+                        "path": "/my-second-post/"
+                    }
+                },
+                {
+                    "node": {
+                        "path": "/Vimpossible-2017-10-13"
+                    }
+                },
+                {
+                    "node": {
+                        "path": "/"
+                    }
+                }
+            ]
+        }
+    },
+    "pathContext": {
+        "_PARENT": "SOURCE"
+    }
+}
