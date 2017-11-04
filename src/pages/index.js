@@ -3,7 +3,7 @@ import Link from 'gatsby-link'
 import get from 'lodash/get'
 import Helmet from 'react-helmet'
 
-import Bio from '../components/Bio'
+import Social from '../components/social'
 import { rhythm } from '../utils/typography'
 
 class BlogIndex extends React.Component {
@@ -14,7 +14,7 @@ class BlogIndex extends React.Component {
     return (
       <div>
         <Helmet title={siteTitle} />
-        <Bio />
+        <Social />
         {posts.map(post => {
           if (post.node.frontmatter.path !== '/404/') {
             const title = get(post, 'node.frontmatter.title') || post.node.path

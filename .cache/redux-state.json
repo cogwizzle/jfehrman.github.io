@@ -10,7 +10,7 @@
       "context": {
         "_PARENT": "SOURCE"
       },
-      "updatedAt": 1509812979637,
+      "updatedAt": 1509832684774,
       "pluginCreator___NODE": "Plugin dev-404-page",
       "pluginCreatorId": "Plugin dev-404-page",
       "componentPath": "/home/jfehrman/Development/new.github/.cache/dev-404-page.js",
@@ -19,7 +19,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "ebdb8994e7366f0a76a22206901caa0c",
+        "contentDigest": "44220f5da5153639ce603103e50c9744",
         "owner": "internal-data-bridge"
       }
     },
@@ -1492,6 +1492,16 @@
         "license": "MIT",
         "dependencies": [
           {
+            "name": "bootstrap",
+            "version": "^3.3.7",
+            "_PARENT": "SOURCE"
+          },
+          {
+            "name": "bootswatch",
+            "version": "^3.3.7",
+            "_PARENT": "SOURCE"
+          },
+          {
             "name": "gatsby",
             "version": "^1.9.92",
             "_PARENT": "SOURCE"
@@ -1572,8 +1582,23 @@
             "_PARENT": "SOURCE"
           },
           {
+            "name": "react-bootstrap",
+            "version": "^0.31.5",
+            "_PARENT": "SOURCE"
+          },
+          {
             "name": "react-responsive-grid",
             "version": "^0.3.3",
+            "_PARENT": "SOURCE"
+          },
+          {
+            "name": "react-social-icons",
+            "version": "^2.7.0",
+            "_PARENT": "SOURCE"
+          },
+          {
+            "name": "styled-components",
+            "version": "^2.2.3",
             "_PARENT": "SOURCE"
           },
           {
@@ -1637,12 +1662,12 @@
       "host": "localhost",
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2017-11-04T16:28:54.371Z",
+      "buildTime": "2017-11-04T21:58:02.805Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "99be972069d04fce960a2026b4bb25c2",
+        "contentDigest": "06e4770cb33891a76fca7316714bcbdb",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -1652,7 +1677,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "0ffe59b2eae94c89ed875fb52a8ba728",
+        "contentDigest": "4df1ce52465f717f7eb65c0174cd0cc4",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -1662,10 +1687,10 @@
       "extension": "",
       "size": 4096,
       "prettySize": "4.1 kB",
-      "modifiedTime": "2017-11-04T16:26:41.786Z",
+      "modifiedTime": "2017-11-04T21:56:45.488Z",
       "accessTime": "2017-11-04T16:14:08.053Z",
-      "changeTime": "2017-11-04T16:26:41.786Z",
-      "birthTime": "2017-11-04T16:26:41.786Z",
+      "changeTime": "2017-11-04T21:56:45.488Z",
+      "birthTime": "2017-11-04T21:56:45.488Z",
       "root": "/",
       "dir": "/home/jfehrman/Development/new.github/src",
       "base": "pages",
@@ -1674,7 +1699,7 @@
       "relativeDirectory": "..",
       "dev": 45,
       "mode": 16893,
-      "nlink": 6,
+      "nlink": 3,
       "uid": 1000,
       "gid": 1000,
       "rdev": 0,
@@ -1682,49 +1707,9 @@
       "ino": 13244746,
       "blocks": 8,
       "atime": "2017-11-04T16:14:08.053Z",
-      "mtime": "2017-11-04T16:26:41.786Z",
-      "ctime": "2017-11-04T16:26:41.786Z",
-      "birthtime": "2017-11-04T16:26:41.786Z"
-    },
-    "/home/jfehrman/Development/new.github/src/pages/index.js absPath of file": {
-      "id": "/home/jfehrman/Development/new.github/src/pages/index.js absPath of file",
-      "children": [],
-      "parent": "___SOURCE___",
-      "internal": {
-        "contentDigest": "f4f69985d03ec8bbe085930e921e16df",
-        "mediaType": "application/javascript",
-        "type": "File",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "pages",
-      "absolutePath": "/home/jfehrman/Development/new.github/src/pages/index.js",
-      "relativePath": "index.js",
-      "extension": "js",
-      "size": 1742,
-      "prettySize": "1.74 kB",
-      "modifiedTime": "2017-11-03T00:41:22.292Z",
-      "accessTime": "2017-11-04T16:14:08.085Z",
-      "changeTime": "2017-11-04T16:14:08.085Z",
-      "birthTime": "2017-11-04T16:14:08.085Z",
-      "root": "/",
-      "dir": "/home/jfehrman/Development/new.github/src/pages",
-      "base": "index.js",
-      "ext": ".js",
-      "name": "index",
-      "relativeDirectory": "",
-      "dev": 45,
-      "mode": 33204,
-      "nlink": 1,
-      "uid": 1000,
-      "gid": 1000,
-      "rdev": 0,
-      "blksize": 4096,
-      "ino": 13244758,
-      "blocks": 24,
-      "atime": "2017-11-04T16:14:08.085Z",
-      "mtime": "2017-11-03T00:41:22.292Z",
-      "ctime": "2017-11-04T16:14:08.085Z",
-      "birthtime": "2017-11-04T16:14:08.085Z"
+      "mtime": "2017-11-04T21:56:45.488Z",
+      "ctime": "2017-11-04T21:56:45.488Z",
+      "birthtime": "2017-11-04T21:56:45.488Z"
     },
     "/home/jfehrman/Development/new.github/src/pages/2017-10-13-Vimpossible absPath of file": {
       "id": "/home/jfehrman/Development/new.github/src/pages/2017-10-13-Vimpossible absPath of file",
@@ -1765,6 +1750,46 @@
       "ctime": "2017-11-04T16:28:46.037Z",
       "birthtime": "2017-11-04T16:28:46.037Z"
     },
+    "/home/jfehrman/Development/new.github/src/pages/index.js absPath of file": {
+      "id": "/home/jfehrman/Development/new.github/src/pages/index.js absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "64d172ece1aa26cafc84e07c89c5523a",
+        "mediaType": "application/javascript",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/home/jfehrman/Development/new.github/src/pages/index.js",
+      "relativePath": "index.js",
+      "extension": "js",
+      "size": 1751,
+      "prettySize": "1.75 kB",
+      "modifiedTime": "2017-11-04T21:56:45.484Z",
+      "accessTime": "2017-11-04T21:56:45.484Z",
+      "changeTime": "2017-11-04T21:56:45.488Z",
+      "birthTime": "2017-11-04T21:56:45.488Z",
+      "root": "/",
+      "dir": "/home/jfehrman/Development/new.github/src/pages",
+      "base": "index.js",
+      "ext": ".js",
+      "name": "index",
+      "relativeDirectory": "",
+      "dev": 45,
+      "mode": 33204,
+      "nlink": 1,
+      "uid": 1000,
+      "gid": 1000,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 13244515,
+      "blocks": 24,
+      "atime": "2017-11-04T21:56:45.484Z",
+      "mtime": "2017-11-04T21:56:45.484Z",
+      "ctime": "2017-11-04T21:56:45.488Z",
+      "birthtime": "2017-11-04T21:56:45.488Z"
+    },
     "/home/jfehrman/Development/new.github/src/pages/2017-10-13-Vimpossible/index.md absPath of file": {
       "id": "/home/jfehrman/Development/new.github/src/pages/2017-10-13-Vimpossible/index.md absPath of file",
       "children": [
@@ -1785,8 +1810,8 @@
       "prettySize": "4.82 kB",
       "modifiedTime": "2017-11-04T16:28:46.029Z",
       "accessTime": "2017-11-04T16:28:46.025Z",
-      "changeTime": "2017-11-04T16:28:46.029Z",
-      "birthTime": "2017-11-04T16:28:46.029Z",
+      "changeTime": "2017-11-04T16:28:46.037Z",
+      "birthTime": "2017-11-04T16:28:46.037Z",
       "root": "/",
       "dir": "/home/jfehrman/Development/new.github/src/pages/2017-10-13-Vimpossible",
       "base": "index.md",
@@ -1804,8 +1829,8 @@
       "blocks": 32,
       "atime": "2017-11-04T16:28:46.025Z",
       "mtime": "2017-11-04T16:28:46.029Z",
-      "ctime": "2017-11-04T16:28:46.029Z",
-      "birthtime": "2017-11-04T16:28:46.029Z"
+      "ctime": "2017-11-04T16:28:46.037Z",
+      "birthtime": "2017-11-04T16:28:46.037Z"
     },
     "/home/jfehrman/Development/new.github/src/pages/2017-10-13-Vimpossible/index.md absPath of file >>> MarkdownRemark": {
       "id": "/home/jfehrman/Development/new.github/src/pages/2017-10-13-Vimpossible/index.md absPath of file >>> MarkdownRemark",
@@ -1827,78 +1852,6 @@
       },
       "fileAbsolutePath": "/home/jfehrman/Development/new.github/src/pages/2017-10-13-Vimpossible/index.md"
     },
-    "SitePage /hello-world/": {
-      "layout": "index",
-      "jsonName": "hello-world.json",
-      "internalComponentName": "ComponentHelloWorld",
-      "path": "/hello-world/",
-      "component": "/home/jfehrman/Development/new.github/src/templates/blog-post.js",
-      "componentChunkName": "component---src-templates-blog-post-js",
-      "context": {
-        "path": "/hello-world/",
-        "_PARENT": "SOURCE"
-      },
-      "updatedAt": 1509812936335,
-      "pluginCreator___NODE": "Plugin default-site-plugin",
-      "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "/home/jfehrman/Development/new.github/src/templates/blog-post.js",
-      "id": "SitePage /hello-world/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "74da3cb1b9e7c8a9dfa3965afed65ce8",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /hi-folks/": {
-      "layout": "index",
-      "jsonName": "hi-folks.json",
-      "internalComponentName": "ComponentHiFolks",
-      "path": "/hi-folks/",
-      "component": "/home/jfehrman/Development/new.github/src/templates/blog-post.js",
-      "componentChunkName": "component---src-templates-blog-post-js",
-      "context": {
-        "path": "/hi-folks/",
-        "_PARENT": "SOURCE"
-      },
-      "updatedAt": 1509812936336,
-      "pluginCreator___NODE": "Plugin default-site-plugin",
-      "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "/home/jfehrman/Development/new.github/src/templates/blog-post.js",
-      "id": "SitePage /hi-folks/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "04db0c0a5d881c910916dfc244a331cf",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /my-second-post/": {
-      "layout": "index",
-      "jsonName": "my-second-post.json",
-      "internalComponentName": "ComponentMySecondPost",
-      "path": "/my-second-post/",
-      "component": "/home/jfehrman/Development/new.github/src/templates/blog-post.js",
-      "componentChunkName": "component---src-templates-blog-post-js",
-      "context": {
-        "path": "/my-second-post/",
-        "_PARENT": "SOURCE"
-      },
-      "updatedAt": 1509812936337,
-      "pluginCreator___NODE": "Plugin default-site-plugin",
-      "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "/home/jfehrman/Development/new.github/src/templates/blog-post.js",
-      "id": "SitePage /my-second-post/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "ccff377efeda36fd6ff4a4c35ac34f46",
-        "owner": "internal-data-bridge"
-      }
-    },
     "SitePage /Vimpossible-2017-10-13": {
       "layout": "index",
       "jsonName": "vimpossible-2017-10-13.json",
@@ -1910,7 +1863,7 @@
         "path": "/Vimpossible-2017-10-13",
         "_PARENT": "SOURCE"
       },
-      "updatedAt": 1509812979677,
+      "updatedAt": 1509832684792,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/home/jfehrman/Development/new.github/src/templates/blog-post.js",
@@ -1919,7 +1872,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "d21de82ccc97ca6de09978d9d63dc2f7",
+        "contentDigest": "f62ca5c673222d49bab5664d118e807a",
         "owner": "internal-data-bridge"
       }
     },
@@ -1933,7 +1886,7 @@
       "context": {
         "_PARENT": "SOURCE"
       },
-      "updatedAt": 1509812936348,
+      "updatedAt": 1509832684799,
       "pluginCreator___NODE": "Plugin component-page-creator",
       "pluginCreatorId": "Plugin component-page-creator",
       "componentPath": "/home/jfehrman/Development/new.github/src/pages/index.js",
@@ -1942,23 +1895,20 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "da587d3f0ba8781ef302769152f2dbfe",
+        "contentDigest": "63753a75386472e8b0af87868f8d049c",
         "owner": "internal-data-bridge"
       }
     }
   },
   "status": {
     "plugins": {},
-    "PLUGINS_HASH": "e8edac94aed1a5a35c12c52564a215b5"
+    "PLUGINS_HASH": "1dca6e8011ced3b7b6f863034a1f892e"
   },
   "componentDataDependencies": {
     "nodes": {
       "Site": [
-        "/hello-world/",
-        "/hi-folks/",
-        "/my-second-post/",
-        "/",
-        "/Vimpossible-2017-10-13"
+        "/Vimpossible-2017-10-13",
+        "/"
       ],
       "/home/jfehrman/Development/new.github/src/pages/2017-10-13-Vimpossible/index.md absPath of file >>> MarkdownRemark": [
         "/Vimpossible-2017-10-13"

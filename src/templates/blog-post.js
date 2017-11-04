@@ -2,7 +2,7 @@ import React from 'react'
 import Helmet from 'react-helmet'
 import get from 'lodash/get'
 
-import Bio from '../components/Bio'
+import Social from '../components/social'
 import { rhythm, scale } from '../utils/typography'
 
 class BlogPostTemplate extends React.Component {
@@ -30,7 +30,7 @@ class BlogPostTemplate extends React.Component {
             marginBottom: rhythm(1),
           }}
         />
-        <Bio />
+        <Social />
       </div>
     )
   }

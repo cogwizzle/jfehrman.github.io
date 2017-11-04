@@ -1,23 +1,8 @@
 {
     "data": {
         "allSitePage": {
-            "totalCount": 5,
+            "totalCount": 2,
             "edges": [
-                {
-                    "node": {
-                        "path": "/hello-world/"
-                    }
-                },
-                {
-                    "node": {
-                        "path": "/hi-folks/"
-                    }
-                },
-                {
-                    "node": {
-                        "path": "/my-second-post/"
-                    }
-                },
                 {
                     "node": {
                         "path": "/Vimpossible-2017-10-13"

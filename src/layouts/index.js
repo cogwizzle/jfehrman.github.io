@@ -1,74 +1,31 @@
 import React from 'react'
 import Link from 'gatsby-link'
-import { Container } from 'react-responsive-grid'
+import {Navbar} from 'react-bootstrap';
+import 'bootswatch/slate/bootstrap.min.css';
 
 import { rhythm, scale } from '../utils/typography'
 
 class Template extends React.Component {
   render() {
-    const { location, children } = this.props
-    let header
+    const { location, children } = this.props;
+    const siteTitle = "DevJoe";
+    let header = 
+      (<Navbar inverse collapseOnSelect>
+        <Navbar.Header>
+          <Navbar.Brand>
+            <a href="/">{siteTitle}</a>
+          </Navbar.Brand>
+          <Navbar.Toggle />
+        </Navbar.Header>
+      </Navbar>);
 
-    const siteTitle = "DevJoe"
-    
-    let rootPath = `/`
-    if (typeof __PREFIX_PATHS__ !== `undefined` && __PREFIX_PATHS__) {
-      rootPath = __PATH_PREFIX__ + `/`
-    }
-
-    if (location.pathname === rootPath) {
-      header = (
-        <h1
-          style={{
-            ...scale(1.5),
-            marginBottom: rhythm(1.5),
-            marginTop: 0,
-          }}
-        >
-          <Link
-            style={{
-              boxShadow: 'none',
-              textDecoration: 'none',
-              color: 'inherit',
-            }}
-            to={'/'}
-          >
-            {siteTitle}
-          </Link>
-        </h1>
-      )
-    } else {
-      header = (
-        <h3
-          style={{
-            fontFamily: 'Montserrat, sans-serif',
-            marginTop: 0,
-            marginBottom: rhythm(-1),
-          }}
-        >
-          <Link
-            style={{
-              boxShadow: 'none',
-              textDecoration: 'none',
-              color: 'inherit',
-            }}
-            to={'/'}
-          >
-            {siteTitle}
-          </Link>
-        </h3>
-      )
-    }
     return (
-      <Container
-        style={{
-          maxWidth: rhythm(24),
-          padding: `${rhythm(1.5)} ${rhythm(3 / 4)}`,
-        }}
-      >
+      <div>
         {header}
-        {children()}
-      </Container>
+        <div className="container">
+          {children()}
+        </div>
+      </div>
     )
   }
 }
