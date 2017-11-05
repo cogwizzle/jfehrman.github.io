@@ -1,0 +1,2 @@
+webpackJsonp([0x81b8806e4260],{652:function(e,t){e.exports={data:{site:{siteMetadata:{title:"Gatsby Starter Blog"}},allMarkdownRemark:{edges:[{node:{excerpt:"VIM… The Grey Beards’ ancient magic trump card of an editor.  Feared by many, adored by the masters.  This application has terrorized many…",frontmatter:{path:"/Vimpossible-2017-10-13",date:"13 October, 2017",title:"That is simply Vimpossible!"}}}]}},pathContext:{_PARENT:"SOURCE"}}}});
+//# sourceMappingURL=path---index-268e925c91297327a139.js.map
