@@ -10,7 +10,7 @@
       "context": {
         "_PARENT": "SOURCE"
       },
-      "updatedAt": 1509832684774,
+      "updatedAt": 1509844596193,
       "pluginCreator___NODE": "Plugin dev-404-page",
       "pluginCreatorId": "Plugin dev-404-page",
       "componentPath": "/home/jfehrman/Development/new.github/.cache/dev-404-page.js",
@@ -19,7 +19,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "44220f5da5153639ce603103e50c9744",
+        "contentDigest": "bd421ac2fadddc02044d80df1380e06b",
         "owner": "internal-data-bridge"
       }
     },
@@ -1662,12 +1662,12 @@
       "host": "localhost",
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2017-11-04T21:58:02.805Z",
+      "buildTime": "2017-11-04T23:44:43.713Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "06e4770cb33891a76fca7316714bcbdb",
+        "contentDigest": "e23b5d2cb5818920263ffdf1607a2a9a",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -1797,7 +1797,7 @@
       ],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "23ec65ee3c6e9b778dc9d955c28f709f",
+        "contentDigest": "5676f2907d322b1e07e03e057edc32f0",
         "mediaType": "text/markdown",
         "type": "File",
         "owner": "gatsby-source-filesystem"
@@ -1806,12 +1806,12 @@
       "absolutePath": "/home/jfehrman/Development/new.github/src/pages/2017-10-13-Vimpossible/index.md",
       "relativePath": "2017-10-13-Vimpossible/index.md",
       "extension": "md",
-      "size": 4821,
+      "size": 4823,
       "prettySize": "4.82 kB",
-      "modifiedTime": "2017-11-04T16:28:46.029Z",
-      "accessTime": "2017-11-04T16:28:46.025Z",
-      "changeTime": "2017-11-04T16:28:46.037Z",
-      "birthTime": "2017-11-04T16:28:46.037Z",
+      "modifiedTime": "2017-11-05T01:16:35.978Z",
+      "accessTime": "2017-11-05T01:16:35.978Z",
+      "changeTime": "2017-11-05T01:16:35.986Z",
+      "birthTime": "2017-11-05T01:16:35.986Z",
       "root": "/",
       "dir": "/home/jfehrman/Development/new.github/src/pages/2017-10-13-Vimpossible",
       "base": "index.md",
@@ -1825,20 +1825,20 @@
       "gid": 1000,
       "rdev": 0,
       "blksize": 4096,
-      "ino": 13244781,
+      "ino": 13244655,
       "blocks": 32,
-      "atime": "2017-11-04T16:28:46.025Z",
-      "mtime": "2017-11-04T16:28:46.029Z",
-      "ctime": "2017-11-04T16:28:46.037Z",
-      "birthtime": "2017-11-04T16:28:46.037Z"
+      "atime": "2017-11-05T01:16:35.978Z",
+      "mtime": "2017-11-05T01:16:35.978Z",
+      "ctime": "2017-11-05T01:16:35.986Z",
+      "birthtime": "2017-11-05T01:16:35.986Z"
     },
     "/home/jfehrman/Development/new.github/src/pages/2017-10-13-Vimpossible/index.md absPath of file >>> MarkdownRemark": {
       "id": "/home/jfehrman/Development/new.github/src/pages/2017-10-13-Vimpossible/index.md absPath of file >>> MarkdownRemark",
       "children": [],
       "parent": "/home/jfehrman/Development/new.github/src/pages/2017-10-13-Vimpossible/index.md absPath of file",
       "internal": {
-        "content": "---\ntitle:  That is simply Vimpossible!\ndate:   2017-10-13T18:01:35\npath:   /Vimpossible-2017-10-13\ncategories: VIM Vimpossible vimrc .vimrc plugins git menu fugitive nerdtree highlight syntax\n---\n# VIM...\nThe Grey Beards' ancient magic trump card of an editor.  Feared by many, adored by the masters.  This application has terrorized many computer scientist and made programmers petrified.  I have found a way to tame the beast within!\n\nOk, but seriously I hear those developers that say \"VIM is too hard to learn.\"  To be honest they are right.  VIM is weird and not like most editors.  Most people can't figure out how to exit the program and it took even the best VIM users a few months to figure out most of it's features.  Once you get past the steep learning curve there is a lot of good reasons to use it though.\n\nFor starters VIM runs everywhere.  Windows users you can use VIM.  Mac users VIM works for you as well. No Apple Care required.  And for my fellow Linux users we also get to enjoy VIM.  Do you need an editor while SSHing into a server?  VIM does that.  Do you need a lightweight editor to run on old hardware?  VIM for you too.  Want an editor for your Android Phone?  VIM has an app for that.\n\nVIM is customizable.  VIM starts as a simple text editor, but it evolves into so much more with the use of plugins.  [Vim Awesome](https://vimawesome.com/) has tons of plugins that allow you to make VIM into anything that you want.  It can handle most features of modern IDEs and it can do it from ther terminal.  Make it into whatever you need.\n\nI could go on and on all day long about a million other reasons that VIM is awesome.  Chances are eventually even if you don't want to you will need to use it.  In college I never learned VIM because I didn't think I would ever use it.  But now I can see what a fool I was for thinking that I would never need it.  Now I can't see developing without it.\n\n# Vimpossible\nSo what is Vimpossible?  Vimpossible is a basic vimrc configuration that I built for my friends and coworkers who don't usually use VIM.  Vimpossible boldly attempts to create a base vimrc file that will make the process of getting started a little bit easier.\n\nSo what makes Vimpossible so special in comparison with other vimrc configurations?  Vimpossible tries to keep the customization and features added really basic so the user can expand on the toolset as they see fit.  Vimpossible doesn't try to make assumptions and do everything, but instead removes some of the hurdles of getting started and stays out of the way of the user's customization.\n\n# Plugins\n\n## Nerdtree\nNerdtree is an amazing addition to any VIM configuration.  It allows you to have a file browser built into VIM that makes it feel like other editors that new VIM users would be use to.  Traversing folders, and selecting files has never been easier in VIM.  Additionally Vimpossible enables the mouse if possible to allow the user to use the mouse to navigate.  Nerdtree tabs adds better support for switching tabs with Nerdtree and Nerdtree git allows the user to see git file change indicators next to the files in a git repository.\n\n## Simplemenu\nThis is a great gem that I only found after hours of searching.  Simplemenu allows a user to create custom menus for hard to remember commands using the \\<leader\\> m key combination.  By default leader is usually the '\\\\' key so the key presses would be '\\\\', and then 'm'.  This will open a small context menu that by default comes prebuilt with some fugitive commands built into an example menu.\n\n## Fugitive\nFugitive is an amazing plugin that integrates GIT version control into VIM.  For people like me who always use git as their version control it is a life saver.  No more navigating out of VIM to make commits on the command line.  It is now all built into the amazing editor VIM.\n\n# Configuration\nVimpossible comes with a few additional default configuration features.  The most notable feature is that Vimpossible enables the mouse.  This will allow new VIM users to adjust slowly to the VIM navigation system.  It also has some compatiblity features added for running all of the plugins and ensuring the VIM colors show up the correct way.  The configuration is held inside of the vimrc file which is very basic but can be changed into whatever you need it to be.\n\nNeovim support is added through the .config directory.\n\n# Sign off\nI will continue to build and add features to Vimpossible and if it makes one person's transition into VIM easier it has made the entire project worth it.  VIM runs everywhere so chances are everyone will see it at somepoint.  Vimpossible will continue to make those experiences where you have to use VIM better and hey maybe even one day you might find that Vimpossible did the impossible and made you a VIM convert.\n",
-        "contentDigest": "0b8e35fe7860e150b9fdd13dab01284d",
+        "content": "---\ntitle:  That is simply Vimpossible!\ndate:   2017-10-13T18:01:35\npath:   /Vimpossible-2017-10-13\ncategories: VIM Vimpossible vimrc .vimrc plugins git menu fugitive nerdtree highlight syntax\n---\n# VIM...\nThe Grey Beards' ancient magic trump card of an editor.  Feared by many, adored by the masters.  This application has terrorized many computer scientist and made programmers petrified.  I have found a way to tame the beast within!\n\nOk, but seriously I hear those developers that say \"VIM is too hard to learn.\"  To be honest they are right.  VIM is weird and not like most editors.  Most people can't figure out how to exit the program and it took even the best VIM users a few months to figure out most of it's features.  Once you get past the steep learning curve there is a lot of good reasons to use it though.\n\nFor starters VIM runs everywhere.  Windows users you can use VIM.  Mac users VIM works for you as well. No Apple Care required.  And for my fellow Linux users we also get to enjoy VIM.  Do you need an editor while SSHing into a server?  VIM does that.  Do you need a lightweight editor to run on old hardware?  VIM for you too.  Want an editor for your Android Phone?  VIM has an app for that.\n\nVIM is customizable.  VIM starts as a simple text editor, but it evolves into so much more with the use of plugins.  [Vim Awesome](https://vimawesome.com/) has tons of plugins that allow you to make VIM into anything that you want.  It can handle most features of modern IDEs and it can do it from there terminal.  Make it into whatever you need.\n\nI could go on and on all day long about a million other reasons that VIM is awesome.  Chances are eventually even if you don't want to you will need to use it.  In college I never learned VIM because I didn't think I would ever use it.  But now I can see what a fool I was for thinking that I would never need it.  Now I can't see developing without it.\n\n# Vimpossible\nSo what is Vimpossible?  Vimpossible is a basic vimrc configuration that I built for my friends and coworkers who don't usually use VIM.  Vimpossible boldly attempts to create a base vimrc file that will make the process of getting started a little bit easier.\n\nSo what makes Vimpossible so special in comparison with other vimrc configurations?  Vimpossible tries to keep the customization and features added really basic so the user can expand on the toolset as they see fit.  Vimpossible doesn't try to make assumptions and do everything, but instead removes some of the hurdles of getting started and stays out of the way of the user's customization.\n\n# Plugins\n\n## Nerdtree\nNerdtree is an amazing addition to any VIM configuration.  It allows you to have a file browser built into VIM that makes it feel like other editors that new VIM users would be use to.  Traversing folders, and selecting files has never been easier in VIM.  Additionally Vimpossible enables the mouse if possible to allow the user to use the mouse to navigate.  Nerdtree tabs adds better support for switching tabs with Nerdtree and Nerdtree git allows the user to see git file change indicators next to the files in a git repository.\n\n## Simplemenu\nThis is a great gem that I only found after hours of searching.  Simplemenu allows a user to create custom menus for hard to remember commands using the \\<leader\\> m key combination.  By default leader is usually the '\\\\' key so the key presses would be '\\\\', and then 'm'.  This will open a small context menu that by default comes prebuilt with some fugitive commands built into an example menu.\n\n## Fugitive\nFugitive is an amazing plugin that integrates GIT version control into VIM.  For people like me who always use git as their version control it is a life saver.  No more navigating out of VIM to make commits on the command line.  It is now all built into the amazing editor VIM.\n\n# Configuration\nVimpossible comes with a few additional default configuration features.  The most notable feature is that Vimpossible enables the mouse.  This will allow new VIM users to adjust slowly to the VIM navigation system.  It also has some compatibility features added for running all of the plugins and ensuring the VIM colors show up the correct way.  The configuration is held inside of the vimrc file which is very basic but can be changed into whatever you need it to be.\n\nNeovim support is added through the .config directory.\n\n# Sign off\nI will continue to build and add features to Vimpossible and if it makes one person's transition into VIM easier it has made the entire project worth it.  VIM runs everywhere so chances are everyone will see it at somepoint.  Vimpossible will continue to make those experiences where you have to use VIM better and hey maybe even one day you might find that Vimpossible did the impossible and made you a VIM convert.\n",
+        "contentDigest": "ca7365f94e473c08c4382e034123c50c",
         "type": "MarkdownRemark",
         "owner": "gatsby-transformer-remark"
       },
@@ -1863,7 +1863,7 @@
         "path": "/Vimpossible-2017-10-13",
         "_PARENT": "SOURCE"
       },
-      "updatedAt": 1509832684792,
+      "updatedAt": 1509844596216,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/home/jfehrman/Development/new.github/src/templates/blog-post.js",
@@ -1872,7 +1872,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "f62ca5c673222d49bab5664d118e807a",
+        "contentDigest": "d71a291cd10bdefde15ba3b5ae7c9bc3",
         "owner": "internal-data-bridge"
       }
     },
@@ -1886,7 +1886,7 @@
       "context": {
         "_PARENT": "SOURCE"
       },
-      "updatedAt": 1509832684799,
+      "updatedAt": 1509839085635,
       "pluginCreator___NODE": "Plugin component-page-creator",
       "pluginCreatorId": "Plugin component-page-creator",
       "componentPath": "/home/jfehrman/Development/new.github/src/pages/index.js",
@@ -1895,20 +1895,146 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "63753a75386472e8b0af87868f8d049c",
+        "contentDigest": "02b5f38fbc584ed18df55006d26e01f7",
         "owner": "internal-data-bridge"
       }
+    },
+    "/home/jfehrman/Development/new.github/src/pages/2017-11-04-Jekyll_to_Gatsby absPath of file": {
+      "id": "/home/jfehrman/Development/new.github/src/pages/2017-11-04-Jekyll_to_Gatsby absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "7c8847d53d670dc25e148da872ab314a",
+        "type": "Directory",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/home/jfehrman/Development/new.github/src/pages/2017-11-04-Jekyll_to_Gatsby",
+      "relativePath": "2017-11-04-Jekyll_to_Gatsby",
+      "extension": "",
+      "size": 4096,
+      "prettySize": "4.1 kB",
+      "modifiedTime": "2017-11-04T23:45:58.096Z",
+      "accessTime": "2017-11-04T23:45:58.096Z",
+      "changeTime": "2017-11-04T23:45:58.096Z",
+      "birthTime": "2017-11-04T23:45:58.096Z",
+      "root": "/",
+      "dir": "/home/jfehrman/Development/new.github/src/pages",
+      "base": "2017-11-04-Jekyll_to_Gatsby",
+      "ext": "",
+      "name": "2017-11-04-Jekyll_to_Gatsby",
+      "relativeDirectory": "",
+      "dev": 45,
+      "mode": 16893,
+      "nlink": 2,
+      "uid": 1000,
+      "gid": 1000,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 13244651,
+      "blocks": 8,
+      "atime": "2017-11-04T23:45:58.096Z",
+      "mtime": "2017-11-04T23:45:58.096Z",
+      "ctime": "2017-11-04T23:45:58.096Z",
+      "birthtime": "2017-11-04T23:45:58.096Z"
+    },
+    "SitePage /jekyll_to_gatsby-2017-11-04": {
+      "layout": "index",
+      "jsonName": "jekyll-to-gatsby-2017-11-04.json",
+      "internalComponentName": "ComponentJekyllToGatsby20171104",
+      "path": "/jekyll_to_gatsby-2017-11-04",
+      "component": "/home/jfehrman/Development/new.github/src/templates/blog-post.js",
+      "componentChunkName": "component---src-templates-blog-post-js",
+      "context": {
+        "path": "/jekyll_to_gatsby-2017-11-04",
+        "_PARENT": "SOURCE"
+      },
+      "updatedAt": 1509844596217,
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/home/jfehrman/Development/new.github/src/templates/blog-post.js",
+      "id": "SitePage /jekyll_to_gatsby-2017-11-04",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "c28d62b77e473da30ee60c69dcd5281a",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "/home/jfehrman/Development/new.github/src/pages/2017-11-04-Jekyll_to_Gatsby/index.md absPath of file": {
+      "id": "/home/jfehrman/Development/new.github/src/pages/2017-11-04-Jekyll_to_Gatsby/index.md absPath of file",
+      "children": [
+        "/home/jfehrman/Development/new.github/src/pages/2017-11-04-Jekyll_to_Gatsby/index.md absPath of file >>> MarkdownRemark"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "e7adb49dc8e3aab910ba254bc6d1e60b",
+        "mediaType": "text/markdown",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/home/jfehrman/Development/new.github/src/pages/2017-11-04-Jekyll_to_Gatsby/index.md",
+      "relativePath": "2017-11-04-Jekyll_to_Gatsby/index.md",
+      "extension": "md",
+      "size": 5774,
+      "prettySize": "5.77 kB",
+      "modifiedTime": "2017-11-05T01:08:01.449Z",
+      "accessTime": "2017-11-05T01:08:01.449Z",
+      "changeTime": "2017-11-05T01:08:01.453Z",
+      "birthTime": "2017-11-05T01:08:01.453Z",
+      "root": "/",
+      "dir": "/home/jfehrman/Development/new.github/src/pages/2017-11-04-Jekyll_to_Gatsby",
+      "base": "index.md",
+      "ext": ".md",
+      "name": "index",
+      "relativeDirectory": "2017-11-04-Jekyll_to_Gatsby",
+      "dev": 45,
+      "mode": 33204,
+      "nlink": 1,
+      "uid": 1000,
+      "gid": 1000,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 13244653,
+      "blocks": 32,
+      "atime": "2017-11-05T01:08:01.449Z",
+      "mtime": "2017-11-05T01:08:01.449Z",
+      "ctime": "2017-11-05T01:08:01.453Z",
+      "birthtime": "2017-11-05T01:08:01.453Z"
+    },
+    "/home/jfehrman/Development/new.github/src/pages/2017-11-04-Jekyll_to_Gatsby/index.md absPath of file >>> MarkdownRemark": {
+      "id": "/home/jfehrman/Development/new.github/src/pages/2017-11-04-Jekyll_to_Gatsby/index.md absPath of file >>> MarkdownRemark",
+      "children": [],
+      "parent": "/home/jfehrman/Development/new.github/src/pages/2017-11-04-Jekyll_to_Gatsby/index.md absPath of file",
+      "internal": {
+        "content": "---\ntitle: Jekyll to Gatsby\ndate: 2017-11-04T00:00:00\npath: /jekyll_to_gatsby-2017-11-04\ncategories: jekyll gatsby static site generator react javascript markdown\n---\nThe world of static site generators is really interesting right now.  There are hundreds of them out currently.  If you don't believe me go take a look at this list of [Static Site Generators](https://staticsitegenerators.net/).  Right now the definitive king of them all is [Jekyll](https://jekyllrb.com/) right now.  Jekyll is great with a really quick easy spin up and a really large support community of plugins and themes.\n\n## Down with the King\nHowever, when I used Jekyll it just began to seem really incomplete and clunky to me.  I started by creating this blog site running on Jekyll and the default theme worked fantastic.  Shortly after I decided I wanted to change the theme to and hit a road block immediately.  The theme I wanted to use wouldn't work because it was built for an older version of Jekyll.  I couldn't help but think haven't we solved this problem in modern day JavaScript.  Shouldn't replacing pieces of a theme be just like replacing a web component.  It thought why isn't it that easy.\n\nI also found myself scratching my head when trying to work with plugins.  This is not Jekyll's fault, but my own.  Jekyll relies on GEM to install the plugins which is an amazing package manager for the Ruby community.  The only problem was, I'm not a part of the Ruby community.  This was kind of deal breaker for me because in order to continue to develop my site I would have to teach myself the language and tools of Ruby.\n\nAnd last but not least the templates were weird.  You would write blog post in a series of markdown files and the remainder of the templates were in something called liquid.  It worked ok but it just didn't feel right.  And if you wanted to include repetitive HTML content in multiple places you could, but it wasn't elegant.  It felt a lot like a PHP include.  What I really desired was building web components to complete this task and it just wasn't there.\n\n## I'll do it Myself\nSo I started writing my own Static Site Generator at first.  I figured there are already hundreds what is one more.  I started building a Static Site Generator based on [React](https://reactjs.org/) as the templating engine.  This was great because it was based in JavaScript, which everyone knows, and React, which is loved by so many modern developers.\n\n## Great Gatsby!\nI got through the initial generation of my static site when I found [Gatsby](https://www.gatsbyjs.org/) and wow I was impressed.  The Gatsby team had done exactly what I was trying to do with a really cool development stack.  I immediately switch gears and started work on this custom Gatsby site instead of continuing my development and I am happily not looking back.\n\n# What is so Great About Gatsby\nSo like most things this is going to come down to opinion.  It is not that Jekyll is not great, but Jekyll is certainly not for me.  Gatsby was a great natural progression because I already knew the JavaScript stack well and it was using the React the templating language that I wanted to use in my dream site generator.  This meant that I wouldn't have to spend time learning Ruby, which at this time is not high on my list of languages I am interested in (no offense Ruby community).  But on a deeper dive into the technology behind Gatsby I found some really interesting gems in the code.\n\n## Hotloading\nGatsby has a feature known as hotloading, or hot reloading.  This means that as you develop your site and React components your site will automatically incorporate these changes into your site without needing a page refresh.  While I sat in my living room I could cast my website live to my living room TV and watch as my changes appeared on the screen live.  It was super convenient as I was trying to develop the Social React component and get it to look right.\n\n## React-Blog-Template \nSo Gatsby comes with a really simple [blog template](https://github.com/gatsbyjs/gatsby-starter-blog) by Kyle Matthews.  To be honest it isn't as good as Jekyll's [default theme](https://github.com/jekyll/minima), but what it lacks in complexity it makes up for in ease of customization.  In a few hours I was able to build my own custom page templates for my Gatsby site using [React Bootstrap](https://react-bootstrap.github.io/), [Bootswatch](https://bootswatch.com/), [Social Icons](https://github.com/AVVS/react-social-icons), and a few other libraries.  I also liked the way the project was divided more as it wasn't trying to import sections of HTML like we used to do 10 years ago.  Instead it allowed me to write components and include pieces of web pages through React.\n\n## Easy Deployment\nGatsby uses [gh-pages](https://www.npmjs.com/package/gh-pages) to deploy your project to Github Pages easily.  They even have some great [documentation](https://www.gatsbyjs.org/docs/deploy-gatsby/) on the Gatsby site that walks you through the process.\n\n## Bonus\nThere were a few gems I also found when reading through the code of Gatsby as well.  I found [react-helmet](https://github.com/nfl/react-helmet) which allows you to customize your head metadata on Single Page App sites and [GraphQL](http://graphql.org/) which is used to write some amazing queries in the backbone of Gatsby.\n\n# Wrap up\nGatsby has been a breath of fresh air for me when it comes to building and maintaining a static site.  I am looking forward to this platform to continue to evolve and I really think the Gatsby team has done some really good job so far.  Jekyll is great, but if you are by chance looking for a change or you really love React like me give Gatsby a go.  I think you will be really impressed with what you see.\n",
+        "contentDigest": "5b61215a6f6e520ef39a7533e18b0f28",
+        "type": "MarkdownRemark",
+        "owner": "gatsby-transformer-remark"
+      },
+      "frontmatter": {
+        "title": "Jekyll to Gatsby",
+        "date": "2017-11-04T00:00:00.000Z",
+        "path": "/jekyll_to_gatsby-2017-11-04",
+        "categories": "jekyll gatsby static site generator react javascript markdown",
+        "_PARENT": "/home/jfehrman/Development/new.github/src/pages/2017-11-04-Jekyll_to_Gatsby/index.md absPath of file",
+        "parent": "/home/jfehrman/Development/new.github/src/pages/2017-11-04-Jekyll_to_Gatsby/index.md absPath of file"
+      },
+      "fileAbsolutePath": "/home/jfehrman/Development/new.github/src/pages/2017-11-04-Jekyll_to_Gatsby/index.md"
     }
   },
   "status": {
     "plugins": {},
-    "PLUGINS_HASH": "1dca6e8011ced3b7b6f863034a1f892e"
+    "PLUGINS_HASH": "bc76fa1060cf2c2475765d3f11f1167b"
   },
   "componentDataDependencies": {
     "nodes": {
       "Site": [
         "/Vimpossible-2017-10-13",
-        "/"
+        "/",
+        "/jekyll_to_gatsby-2017-11-04"
       ],
       "/home/jfehrman/Development/new.github/src/pages/2017-10-13-Vimpossible/index.md absPath of file >>> MarkdownRemark": [
         "/Vimpossible-2017-10-13"

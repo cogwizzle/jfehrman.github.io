@@ -14,7 +14,9 @@ exports.json = {
   "layout-index.json": require("/home/jfehrman/Development/new.github/.cache/json/layout-index.json"),
   "vimpossible-2017-10-13.json": require("/home/jfehrman/Development/new.github/.cache/json/vimpossible-2017-10-13.json"),
   "layout-index.json": require("/home/jfehrman/Development/new.github/.cache/json/layout-index.json"),
-  "index.json": require("/home/jfehrman/Development/new.github/.cache/json/index.json")
+  "index.json": require("/home/jfehrman/Development/new.github/.cache/json/index.json"),
+  "layout-index.json": require("/home/jfehrman/Development/new.github/.cache/json/layout-index.json"),
+  "jekyll-to-gatsby-2017-11-04.json": require("/home/jfehrman/Development/new.github/.cache/json/jekyll-to-gatsby-2017-11-04.json")
 }
 
 exports.layouts = {

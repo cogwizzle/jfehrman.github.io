@@ -19,5 +19,12 @@
         "layoutComponentChunkName": "component---src-layouts-index-js",
         "jsonName": "index.json",
         "path": "/"
+    },
+    {
+        "componentChunkName": "component---src-templates-blog-post-js",
+        "layout": "index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "jekyll-to-gatsby-2017-11-04.json",
+        "path": "/jekyll_to_gatsby-2017-11-04"
     }
 ]

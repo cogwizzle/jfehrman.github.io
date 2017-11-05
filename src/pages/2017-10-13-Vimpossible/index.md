@@ -11,7 +11,7 @@ Ok, but seriously I hear those developers that say "VIM is too hard to learn."  
 
 For starters VIM runs everywhere.  Windows users you can use VIM.  Mac users VIM works for you as well. No Apple Care required.  And for my fellow Linux users we also get to enjoy VIM.  Do you need an editor while SSHing into a server?  VIM does that.  Do you need a lightweight editor to run on old hardware?  VIM for you too.  Want an editor for your Android Phone?  VIM has an app for that.
 
-VIM is customizable.  VIM starts as a simple text editor, but it evolves into so much more with the use of plugins.  [Vim Awesome](https://vimawesome.com/) has tons of plugins that allow you to make VIM into anything that you want.  It can handle most features of modern IDEs and it can do it from ther terminal.  Make it into whatever you need.
+VIM is customizable.  VIM starts as a simple text editor, but it evolves into so much more with the use of plugins.  [Vim Awesome](https://vimawesome.com/) has tons of plugins that allow you to make VIM into anything that you want.  It can handle most features of modern IDEs and it can do it from there terminal.  Make it into whatever you need.
 
 I could go on and on all day long about a million other reasons that VIM is awesome.  Chances are eventually even if you don't want to you will need to use it.  In college I never learned VIM because I didn't think I would ever use it.  But now I can see what a fool I was for thinking that I would never need it.  Now I can't see developing without it.
 
@@ -32,7 +32,7 @@ This is a great gem that I only found after hours of searching.  Simplemenu allo
 Fugitive is an amazing plugin that integrates GIT version control into VIM.  For people like me who always use git as their version control it is a life saver.  No more navigating out of VIM to make commits on the command line.  It is now all built into the amazing editor VIM.
 
 # Configuration
-Vimpossible comes with a few additional default configuration features.  The most notable feature is that Vimpossible enables the mouse.  This will allow new VIM users to adjust slowly to the VIM navigation system.  It also has some compatiblity features added for running all of the plugins and ensuring the VIM colors show up the correct way.  The configuration is held inside of the vimrc file which is very basic but can be changed into whatever you need it to be.
+Vimpossible comes with a few additional default configuration features.  The most notable feature is that Vimpossible enables the mouse.  This will allow new VIM users to adjust slowly to the VIM navigation system.  It also has some compatibility features added for running all of the plugins and ensuring the VIM colors show up the correct way.  The configuration is held inside of the vimrc file which is very basic but can be changed into whatever you need it to be.
 
 Neovim support is added through the .config directory.
 

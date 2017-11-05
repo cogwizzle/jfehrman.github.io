@@ -15,7 +15,6 @@ class Template extends React.Component {
           <Navbar.Brand>
             <a href="/">{siteTitle}</a>
           </Navbar.Brand>
-          <Navbar.Toggle />
         </Navbar.Header>
       </Navbar>);
 
