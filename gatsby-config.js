@@ -1,7 +1,12 @@
 module.exports = {
   siteMetadata: {
-    title: "Gatsby Starter Blog",
-    author: "Kyle Mathews",
+    title: "DevJoe",
+    author: "Joe Fehrman",
+    socialLinks : [
+      `https://github.com/jfehrman`,
+      `https://twitter.com/joseph_fehrman`,
+      `https://stackexchange.com/users/10229104/joseph-fehrman`
+    ],
   },
   plugins: [
     {

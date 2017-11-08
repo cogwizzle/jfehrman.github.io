@@ -1,6 +1,7 @@
 import React from 'react';
 import {Row, Grid, Col} from 'react-bootstrap';
 import {SocialIcons} from 'react-social-icons';
+import GatsbyConfig from '../../gatsby-config';
 
 // Import typefaces
 import 'typeface-montserrat';
@@ -10,13 +11,9 @@ import { rhythm } from '../utils/typography';
 // Stylesheets
 import './social.css';
 
-class Bio extends React.Component {
+class Social extends React.Component {
   render() {
-    const urls = [
-      'https://github.com/jfehrman',
-      'https://twitter.com/joseph_fehrman',
-      'https://stackexchange.com/users/10229104/joseph-fehrman'
-    ];
+    const urls = GatsbyConfig.siteMetadata.socialLinks;
 
     return (
       <div id="social_buttons">
@@ -28,4 +25,4 @@ class Bio extends React.Component {
   }
 }
 
-export default Bio
+export default Social
