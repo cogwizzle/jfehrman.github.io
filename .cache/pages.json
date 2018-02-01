@@ -10,15 +10,15 @@
         "componentChunkName": "component---src-templates-blog-post-js",
         "layout": "index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "jekyll-to-gatsby-2017-11-04.json",
-        "path": "/jekyll_to_gatsby-2017-11-04"
+        "jsonName": "vimpossible-2017-10-13.json",
+        "path": "/Vimpossible-2017-10-13"
     },
     {
         "componentChunkName": "component---src-templates-blog-post-js",
         "layout": "index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "vimpossible-2017-10-13.json",
-        "path": "/Vimpossible-2017-10-13"
+        "jsonName": "jekyll-to-gatsby-2017-11-04.json",
+        "path": "/jekyll_to_gatsby-2017-11-04"
     },
     {
         "componentChunkName": "component---src-pages-index-js",
